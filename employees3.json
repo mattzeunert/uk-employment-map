@@ -1,0 +1,5748 @@
+{
+  "Yorkshire and The Humber": [
+    {
+      "sector": "Crop and animal production, hunting and related service activities",
+      "sic2": "01",
+      "employees": 33000
+    },
+    {
+      "sector": "Forestry and logging",
+      "sic2": "02",
+      "employees": 300
+    },
+    {
+      "sector": "Fishing and aquaculture",
+      "sic2": "03",
+      "employees": 150
+    },
+    {
+      "sector": "Mining of coal and lignite",
+      "sic2": "05",
+      "employees": 900
+    },
+    {
+      "sector": "Extraction of crude petroleum and natural gas",
+      "sic2": "06",
+      "employees": 50
+    },
+    {
+      "sector": "Mining of metal ores",
+      "sic2": "07",
+      "employees": 0
+    },
+    {
+      "sector": "Other mining and quarrying",
+      "sic2": "08",
+      "employees": 1250
+    },
+    {
+      "sector": "Mining support service activities",
+      "sic2": "09",
+      "employees": 350
+    },
+    {
+      "sector": "Manufacture of food products",
+      "sic2": "10",
+      "employees": 47000
+    },
+    {
+      "sector": "Manufacture of beverages",
+      "sic2": "11",
+      "employees": 4500
+    },
+    {
+      "sector": "Manufacture of tobacco products",
+      "sic2": "12",
+      "employees": 20
+    },
+    {
+      "sector": "Manufacture of textiles",
+      "sic2": "13",
+      "employees": 9000
+    },
+    {
+      "sector": "Manufacture of wearing apparel",
+      "sic2": "14",
+      "employees": 1250
+    },
+    {
+      "sector": "Manufacture of leather and related products",
+      "sic2": "15",
+      "employees": 100
+    },
+    {
+      "sector": "Manufacture of wood and of products of wood and cork, except furniture;manufacture of articles of straw and plaiting materials",
+      "sic2": "16",
+      "employees": 11000
+    },
+    {
+      "sector": "Manufacture of paper and paper products",
+      "sic2": "17",
+      "employees": 5000
+    },
+    {
+      "sector": "Printing and reproduction of recorded media",
+      "sic2": "18",
+      "employees": 14000
+    },
+    {
+      "sector": "Manufacture of coke and refined petroleum products",
+      "sic2": "19",
+      "employees": 2250
+    },
+    {
+      "sector": "Manufacture of chemicals and chemical products",
+      "sic2": "20",
+      "employees": 12000
+    },
+    {
+      "sector": "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+      "sic2": "21",
+      "employees": 3500
+    },
+    {
+      "sector": "Manufacture of rubber and plastic products",
+      "sic2": "22",
+      "employees": 18000
+    },
+    {
+      "sector": "Manufacture of other non-metallic mineral products",
+      "sic2": "23",
+      "employees": 11000
+    },
+    {
+      "sector": "Manufacture of basic metals",
+      "sic2": "24",
+      "employees": 13000
+    },
+    {
+      "sector": "Manufacture of fabricated metal products, except machinery and equipment",
+      "sic2": "25",
+      "employees": 36000
+    },
+    {
+      "sector": "Manufacture of computer, electronic and optical products",
+      "sic2": "26",
+      "employees": 7000
+    },
+    {
+      "sector": "Manufacture of electrical equipment",
+      "sic2": "27",
+      "employees": 9000
+    },
+    {
+      "sector": "Manufacture of machinery and equipment n.e.c.",
+      "sic2": "28",
+      "employees": 18000
+    },
+    {
+      "sector": "Manufacture of motor vehicles, trailers and semi-trailers",
+      "sic2": "29",
+      "employees": 12000
+    },
+    {
+      "sector": "Manufacture of other transport equipment",
+      "sic2": "30",
+      "employees": 1750
+    },
+    {
+      "sector": "Manufacture of furniture",
+      "sic2": "31",
+      "employees": 15000
+    },
+    {
+      "sector": "Other manufacturing",
+      "sic2": "32",
+      "employees": 7000
+    },
+    {
+      "sector": "Repair and installation of machinery and equipment",
+      "sic2": "33",
+      "employees": 12000
+    },
+    {
+      "sector": "Electricity, gas, steam and air conditioning supply",
+      "sic2": "35",
+      "employees": 10000
+    },
+    {
+      "sector": "Water collection, treatment and supply",
+      "sic2": "36",
+      "employees": 3500
+    },
+    {
+      "sector": "Sewerage",
+      "sic2": "37",
+      "employees": 900
+    },
+    {
+      "sector": "Waste collection, treatment and disposal activities; materials recovery",
+      "sic2": "38",
+      "employees": 10000
+    },
+    {
+      "sector": "Remediation activities and other waste management services. This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.",
+      "sic2": "39",
+      "employees": 125
+    },
+    {
+      "sector": "Construction of buildings",
+      "sic2": "41",
+      "employees": 34000
+    },
+    {
+      "sector": "Civil engineering",
+      "sic2": "42",
+      "employees": 17000
+    },
+    {
+      "sector": "Specialised construction activities",
+      "sic2": "43",
+      "employees": 58000
+    },
+    {
+      "sector": "Wholesale and retail trade and repair of motor vehicles and motorcycles",
+      "sic2": "45",
+      "employees": 45000
+    },
+    {
+      "sector": "Wholesale trade, except of motor vehicles and motorcycles",
+      "sic2": "46",
+      "employees": 103000
+    },
+    {
+      "sector": "Retail trade, except of motor vehicles and motorcycles",
+      "sic2": "47",
+      "employees": 223000
+    },
+    {
+      "sector": "Land transport and transport via pipelines",
+      "sic2": "49",
+      "employees": 50000
+    },
+    {
+      "sector": "Water transport",
+      "sic2": "50",
+      "employees": 700
+    },
+    {
+      "sector": "Air transport",
+      "sic2": "51",
+      "employees": 3000
+    },
+    {
+      "sector": "Warehousing and support activities for transportation",
+      "sic2": "52",
+      "employees": 47000
+    },
+    {
+      "sector": "Postal and courier activities",
+      "sic2": "53",
+      "employees": 18000
+    },
+    {
+      "sector": "Accommodation",
+      "sic2": "55",
+      "employees": 25000
+    },
+    {
+      "sector": "Food and beverage service activities",
+      "sic2": "56",
+      "employees": 131000
+    },
+    {
+      "sector": "Publishing activities",
+      "sic2": "58",
+      "employees": 5000
+    },
+    {
+      "sector": "Motion picture, video and television programme production, sound recording and music publishing activities",
+      "sic2": "59",
+      "employees": 2250
+    },
+    {
+      "sector": "Programming and broadcasting activities",
+      "sic2": "60",
+      "employees": 600
+    },
+    {
+      "sector": "Telecommunications",
+      "sic2": "61",
+      "employees": 13000
+    },
+    {
+      "sector": "Computer programming, consultancy and related activities",
+      "sic2": "62",
+      "employees": 27000
+    },
+    {
+      "sector": "Information service activities",
+      "sic2": "63",
+      "employees": 3000
+    },
+    {
+      "sector": "Financial service activities, except insurance and pension funding",
+      "sic2": "64",
+      "employees": 42000
+    },
+    {
+      "sector": "Insurance, reinsurance and pension funding, except compulsory social security",
+      "sic2": "65",
+      "employees": 3500
+    },
+    {
+      "sector": "Activities auxiliary to financial services and insurance activities",
+      "sic2": "66",
+      "employees": 35000
+    },
+    {
+      "sector": "Real estate activities",
+      "sic2": "68",
+      "employees": 35000
+    },
+    {
+      "sector": "Legal and accounting activities",
+      "sic2": "69",
+      "employees": 39000
+    },
+    {
+      "sector": "Activities of head offices; management consultancy activities",
+      "sic2": "70",
+      "employees": 40000
+    },
+    {
+      "sector": "Architectural and engineering activities; technical testing and analysis",
+      "sic2": "71",
+      "employees": 35000
+    },
+    {
+      "sector": "Scientific research and development",
+      "sic2": "72",
+      "employees": 6000
+    },
+    {
+      "sector": "Advertising and market research",
+      "sic2": "73",
+      "employees": 20000
+    },
+    {
+      "sector": "Other professional, scientific and technical activities",
+      "sic2": "74",
+      "employees": 11000
+    },
+    {
+      "sector": "Veterinary activities",
+      "sic2": "75",
+      "employees": 6000
+    },
+    {
+      "sector": "Rental and leasing activities",
+      "sic2": "77",
+      "employees": 17000
+    },
+    {
+      "sector": "Employment activities",
+      "sic2": "78",
+      "employees": 84000
+    },
+    {
+      "sector": "Travel agency, tour operator and other reservation service and related activities",
+      "sic2": "79",
+      "employees": 5000
+    },
+    {
+      "sector": "Security and investigation activities",
+      "sic2": "80",
+      "employees": 16000
+    },
+    {
+      "sector": "Services to buildings and landscape activities",
+      "sic2": "81",
+      "employees": 51000
+    },
+    {
+      "sector": "Office administrative, office support and other business support activities",
+      "sic2": "82",
+      "employees": 48000
+    },
+    {
+      "sector": "Public administration and defence; compulsory social security",
+      "sic2": "84",
+      "employees": 106000
+    },
+    {
+      "sector": "Education",
+      "sic2": "85",
+      "employees": 236000
+    },
+    {
+      "sector": "Human health activities",
+      "sic2": "86",
+      "employees": 185000
+    },
+    {
+      "sector": "Residential care activities",
+      "sic2": "87",
+      "employees": 57000
+    },
+    {
+      "sector": "Social work activities without accommodation",
+      "sic2": "88",
+      "employees": 86000
+    },
+    {
+      "sector": "Creative, arts and entertainment activities",
+      "sic2": "90",
+      "employees": 4000
+    },
+    {
+      "sector": "Libraries, archives, museums and other cultural activities",
+      "sic2": "91",
+      "employees": 7000
+    },
+    {
+      "sector": "Gambling and betting activities",
+      "sic2": "92",
+      "employees": 9000
+    },
+    {
+      "sector": "Sports activities and amusement and recreation activities",
+      "sic2": "93",
+      "employees": 40000
+    },
+    {
+      "sector": "Activities of membership organisations",
+      "sic2": "94",
+      "employees": 13000
+    },
+    {
+      "sector": "Repair of computers and personal and household goods",
+      "sic2": "95",
+      "employees": 700
+    },
+    {
+      "sector": "Other personal service activities",
+      "sic2": "96",
+      "employees": 18000
+    },
+    {
+      "sector": "Activities of households as employers of domestic personnel",
+      "sic2": "97",
+      "employees": 0
+    },
+    {
+      "sector": "Undifferentiated goods- and services-producing activities of private households for own use",
+      "sic2": "98",
+      "employees": 0
+    },
+    {
+      "sector": "Activities of extraterritorial organisations and bodies",
+      "sic2": "99",
+      "employees": 0
+    }
+  ],
+  "East of England": [
+    {
+      "sector": "Crop and animal production, hunting and related service activities",
+      "sic2": "01",
+      "employees": 43000
+    },
+    {
+      "sector": "Forestry and logging",
+      "sic2": "02",
+      "employees": 800
+    },
+    {
+      "sector": "Fishing and aquaculture",
+      "sic2": "03",
+      "employees": 175
+    },
+    {
+      "sector": "Mining of coal and lignite",
+      "sic2": "05",
+      "employees": 0
+    },
+    {
+      "sector": "Extraction of crude petroleum and natural gas",
+      "sic2": "06",
+      "employees": 400
+    },
+    {
+      "sector": "Mining of metal ores",
+      "sic2": "07",
+      "employees": 0
+    },
+    {
+      "sector": "Other mining and quarrying",
+      "sic2": "08",
+      "employees": 800
+    },
+    {
+      "sector": "Mining support service activities",
+      "sic2": "09",
+      "employees": 450
+    },
+    {
+      "sector": "Manufacture of food products",
+      "sic2": "10",
+      "employees": 27000
+    },
+    {
+      "sector": "Manufacture of beverages",
+      "sic2": "11",
+      "employees": 4500
+    },
+    {
+      "sector": "Manufacture of tobacco products",
+      "sic2": "12",
+      "employees": 20
+    },
+    {
+      "sector": "Manufacture of textiles",
+      "sic2": "13",
+      "employees": 2500
+    },
+    {
+      "sector": "Manufacture of wearing apparel",
+      "sic2": "14",
+      "employees": 800
+    },
+    {
+      "sector": "Manufacture of leather and related products",
+      "sic2": "15",
+      "employees": 600
+    },
+    {
+      "sector": "Manufacture of wood and of products of wood and cork, except furniture;manufacture of articles of straw and plaiting materials",
+      "sic2": "16",
+      "employees": 6000
+    },
+    {
+      "sector": "Manufacture of paper and paper products",
+      "sic2": "17",
+      "employees": 4500
+    },
+    {
+      "sector": "Printing and reproduction of recorded media",
+      "sic2": "18",
+      "employees": 10000
+    },
+    {
+      "sector": "Manufacture of coke and refined petroleum products",
+      "sic2": "19",
+      "employees": 125
+    },
+    {
+      "sector": "Manufacture of chemicals and chemical products",
+      "sic2": "20",
+      "employees": 8000
+    },
+    {
+      "sector": "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+      "sic2": "21",
+      "employees": 4500
+    },
+    {
+      "sector": "Manufacture of rubber and plastic products",
+      "sic2": "22",
+      "employees": 17000
+    },
+    {
+      "sector": "Manufacture of other non-metallic mineral products",
+      "sic2": "23",
+      "employees": 5000
+    },
+    {
+      "sector": "Manufacture of basic metals",
+      "sic2": "24",
+      "employees": 2250
+    },
+    {
+      "sector": "Manufacture of fabricated metal products, except machinery and equipment",
+      "sic2": "25",
+      "employees": 27000
+    },
+    {
+      "sector": "Manufacture of computer, electronic and optical products",
+      "sic2": "26",
+      "employees": 15000
+    },
+    {
+      "sector": "Manufacture of electrical equipment",
+      "sic2": "27",
+      "employees": 7000
+    },
+    {
+      "sector": "Manufacture of machinery and equipment n.e.c.",
+      "sic2": "28",
+      "employees": 21000
+    },
+    {
+      "sector": "Manufacture of motor vehicles, trailers and semi-trailers",
+      "sic2": "29",
+      "employees": 9000
+    },
+    {
+      "sector": "Manufacture of other transport equipment",
+      "sic2": "30",
+      "employees": 9000
+    },
+    {
+      "sector": "Manufacture of furniture",
+      "sic2": "31",
+      "employees": 7000
+    },
+    {
+      "sector": "Other manufacturing",
+      "sic2": "32",
+      "employees": 10000
+    },
+    {
+      "sector": "Repair and installation of machinery and equipment",
+      "sic2": "33",
+      "employees": 10000
+    },
+    {
+      "sector": "Electricity, gas, steam and air conditioning supply",
+      "sic2": "35",
+      "employees": 5000
+    },
+    {
+      "sector": "Water collection, treatment and supply",
+      "sic2": "36",
+      "employees": 4500
+    },
+    {
+      "sector": "Sewerage",
+      "sic2": "37",
+      "employees": 6000
+    },
+    {
+      "sector": "Waste collection, treatment and disposal activities; materials recovery",
+      "sic2": "38",
+      "employees": 13000
+    },
+    {
+      "sector": "Remediation activities and other waste management services. This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.",
+      "sic2": "39",
+      "employees": 1000
+    },
+    {
+      "sector": "Construction of buildings",
+      "sic2": "41",
+      "employees": 54000
+    },
+    {
+      "sector": "Civil engineering",
+      "sic2": "42",
+      "employees": 24000
+    },
+    {
+      "sector": "Specialised construction activities",
+      "sic2": "43",
+      "employees": 88000
+    },
+    {
+      "sector": "Wholesale and retail trade and repair of motor vehicles and motorcycles",
+      "sic2": "45",
+      "employees": 69000
+    },
+    {
+      "sector": "Wholesale trade, except of motor vehicles and motorcycles",
+      "sic2": "46",
+      "employees": 119000
+    },
+    {
+      "sector": "Retail trade, except of motor vehicles and motorcycles",
+      "sic2": "47",
+      "employees": 290000
+    },
+    {
+      "sector": "Land transport and transport via pipelines",
+      "sic2": "49",
+      "employees": 49000
+    },
+    {
+      "sector": "Water transport",
+      "sic2": "50",
+      "employees": 900
+    },
+    {
+      "sector": "Air transport",
+      "sic2": "51",
+      "employees": 5000
+    },
+    {
+      "sector": "Warehousing and support activities for transportation",
+      "sic2": "52",
+      "employees": 46000
+    },
+    {
+      "sector": "Postal and courier activities",
+      "sic2": "53",
+      "employees": 22000
+    },
+    {
+      "sector": "Accommodation",
+      "sic2": "55",
+      "employees": 32000
+    },
+    {
+      "sector": "Food and beverage service activities",
+      "sic2": "56",
+      "employees": 142000
+    },
+    {
+      "sector": "Publishing activities",
+      "sic2": "58",
+      "employees": 17000
+    },
+    {
+      "sector": "Motion picture, video and television programme production, sound recording and music publishing activities",
+      "sic2": "59",
+      "employees": 11000
+    },
+    {
+      "sector": "Programming and broadcasting activities",
+      "sic2": "60",
+      "employees": 175
+    },
+    {
+      "sector": "Telecommunications",
+      "sic2": "61",
+      "employees": 15000
+    },
+    {
+      "sector": "Computer programming, consultancy and related activities",
+      "sic2": "62",
+      "employees": 54000
+    },
+    {
+      "sector": "Information service activities",
+      "sic2": "63",
+      "employees": 6000
+    },
+    {
+      "sector": "Financial service activities, except insurance and pension funding",
+      "sic2": "64",
+      "employees": 21000
+    },
+    {
+      "sector": "Insurance, reinsurance and pension funding, except compulsory social security",
+      "sic2": "65",
+      "employees": 7000
+    },
+    {
+      "sector": "Activities auxiliary to financial services and insurance activities",
+      "sic2": "66",
+      "employees": 33000
+    },
+    {
+      "sector": "Real estate activities",
+      "sic2": "68",
+      "employees": 43000
+    },
+    {
+      "sector": "Legal and accounting activities",
+      "sic2": "69",
+      "employees": 56000
+    },
+    {
+      "sector": "Activities of head offices; management consultancy activities",
+      "sic2": "70",
+      "employees": 66000
+    },
+    {
+      "sector": "Architectural and engineering activities; technical testing and analysis",
+      "sic2": "71",
+      "employees": 44000
+    },
+    {
+      "sector": "Scientific research and development",
+      "sic2": "72",
+      "employees": 31000
+    },
+    {
+      "sector": "Advertising and market research",
+      "sic2": "73",
+      "employees": 10000
+    },
+    {
+      "sector": "Other professional, scientific and technical activities",
+      "sic2": "74",
+      "employees": 17000
+    },
+    {
+      "sector": "Veterinary activities",
+      "sic2": "75",
+      "employees": 6000
+    },
+    {
+      "sector": "Rental and leasing activities",
+      "sic2": "77",
+      "employees": 24000
+    },
+    {
+      "sector": "Employment activities",
+      "sic2": "78",
+      "employees": 110000
+    },
+    {
+      "sector": "Travel agency, tour operator and other reservation service and related activities",
+      "sic2": "79",
+      "employees": 6000
+    },
+    {
+      "sector": "Security and investigation activities",
+      "sic2": "80",
+      "employees": 11000
+    },
+    {
+      "sector": "Services to buildings and landscape activities",
+      "sic2": "81",
+      "employees": 84000
+    },
+    {
+      "sector": "Office administrative, office support and other business support activities",
+      "sic2": "82",
+      "employees": 35000
+    },
+    {
+      "sector": "Public administration and defence; compulsory social security",
+      "sic2": "84",
+      "employees": 87000
+    },
+    {
+      "sector": "Education",
+      "sic2": "85",
+      "employees": 235000
+    },
+    {
+      "sector": "Human health activities",
+      "sic2": "86",
+      "employees": 169000
+    },
+    {
+      "sector": "Residential care activities",
+      "sic2": "87",
+      "employees": 69000
+    },
+    {
+      "sector": "Social work activities without accommodation",
+      "sic2": "88",
+      "employees": 78000
+    },
+    {
+      "sector": "Creative, arts and entertainment activities",
+      "sic2": "90",
+      "employees": 3500
+    },
+    {
+      "sector": "Libraries, archives, museums and other cultural activities",
+      "sic2": "91",
+      "employees": 8000
+    },
+    {
+      "sector": "Gambling and betting activities",
+      "sic2": "92",
+      "employees": 8000
+    },
+    {
+      "sector": "Sports activities and amusement and recreation activities",
+      "sic2": "93",
+      "employees": 41000
+    },
+    {
+      "sector": "Activities of membership organisations",
+      "sic2": "94",
+      "employees": 23000
+    },
+    {
+      "sector": "Repair of computers and personal and household goods",
+      "sic2": "95",
+      "employees": 13000
+    },
+    {
+      "sector": "Other personal service activities",
+      "sic2": "96",
+      "employees": 29000
+    },
+    {
+      "sector": "Activities of households as employers of domestic personnel",
+      "sic2": "97",
+      "employees": 0
+    },
+    {
+      "sector": "Undifferentiated goods- and services-producing activities of private households for own use",
+      "sic2": "98",
+      "employees": 0
+    },
+    {
+      "sector": "Activities of extraterritorial organisations and bodies",
+      "sic2": "99",
+      "employees": 0
+    }
+  ],
+  "West Midlands": [
+    {
+      "sector": "Crop and animal production, hunting and related service activities",
+      "sic2": "01",
+      "employees": 45000
+    },
+    {
+      "sector": "Forestry and logging",
+      "sic2": "02",
+      "employees": 1750
+    },
+    {
+      "sector": "Fishing and aquaculture",
+      "sic2": "03",
+      "employees": 150
+    },
+    {
+      "sector": "Mining of coal and lignite",
+      "sic2": "05",
+      "employees": 0
+    },
+    {
+      "sector": "Extraction of crude petroleum and natural gas",
+      "sic2": "06",
+      "employees": 0
+    },
+    {
+      "sector": "Mining of metal ores",
+      "sic2": "07",
+      "employees": 0
+    },
+    {
+      "sector": "Other mining and quarrying",
+      "sic2": "08",
+      "employees": 1000
+    },
+    {
+      "sector": "Mining support service activities",
+      "sic2": "09",
+      "employees": 75
+    },
+    {
+      "sector": "Manufacture of food products",
+      "sic2": "10",
+      "employees": 32000
+    },
+    {
+      "sector": "Manufacture of beverages",
+      "sic2": "11",
+      "employees": 3500
+    },
+    {
+      "sector": "Manufacture of tobacco products",
+      "sic2": "12",
+      "employees": 0
+    },
+    {
+      "sector": "Manufacture of textiles",
+      "sic2": "13",
+      "employees": 2500
+    },
+    {
+      "sector": "Manufacture of wearing apparel",
+      "sic2": "14",
+      "employees": 2000
+    },
+    {
+      "sector": "Manufacture of leather and related products",
+      "sic2": "15",
+      "employees": 700
+    },
+    {
+      "sector": "Manufacture of wood and of products of wood and cork, except furniture;manufacture of articles of straw and plaiting materials",
+      "sic2": "16",
+      "employees": 9000
+    },
+    {
+      "sector": "Manufacture of paper and paper products",
+      "sic2": "17",
+      "employees": 3000
+    },
+    {
+      "sector": "Printing and reproduction of recorded media",
+      "sic2": "18",
+      "employees": 8000
+    },
+    {
+      "sector": "Manufacture of coke and refined petroleum products",
+      "sic2": "19",
+      "employees": 700
+    },
+    {
+      "sector": "Manufacture of chemicals and chemical products",
+      "sic2": "20",
+      "employees": 7000
+    },
+    {
+      "sector": "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+      "sic2": "21",
+      "employees": 200
+    },
+    {
+      "sector": "Manufacture of rubber and plastic products",
+      "sic2": "22",
+      "employees": 20000
+    },
+    {
+      "sector": "Manufacture of other non-metallic mineral products",
+      "sic2": "23",
+      "employees": 13000
+    },
+    {
+      "sector": "Manufacture of basic metals",
+      "sic2": "24",
+      "employees": 12000
+    },
+    {
+      "sector": "Manufacture of fabricated metal products, except machinery and equipment",
+      "sic2": "25",
+      "employees": 58000
+    },
+    {
+      "sector": "Manufacture of computer, electronic and optical products",
+      "sic2": "26",
+      "employees": 7000
+    },
+    {
+      "sector": "Manufacture of electrical equipment",
+      "sic2": "27",
+      "employees": 9000
+    },
+    {
+      "sector": "Manufacture of machinery and equipment n.e.c.",
+      "sic2": "28",
+      "employees": 25000
+    },
+    {
+      "sector": "Manufacture of motor vehicles, trailers and semi-trailers",
+      "sic2": "29",
+      "employees": 52000
+    },
+    {
+      "sector": "Manufacture of other transport equipment",
+      "sic2": "30",
+      "employees": 8000
+    },
+    {
+      "sector": "Manufacture of furniture",
+      "sic2": "31",
+      "employees": 6000
+    },
+    {
+      "sector": "Other manufacturing",
+      "sic2": "32",
+      "employees": 7000
+    },
+    {
+      "sector": "Repair and installation of machinery and equipment",
+      "sic2": "33",
+      "employees": 11000
+    },
+    {
+      "sector": "Electricity, gas, steam and air conditioning supply",
+      "sic2": "35",
+      "employees": 13000
+    },
+    {
+      "sector": "Water collection, treatment and supply",
+      "sic2": "36",
+      "employees": 4500
+    },
+    {
+      "sector": "Sewerage",
+      "sic2": "37",
+      "employees": 1250
+    },
+    {
+      "sector": "Waste collection, treatment and disposal activities; materials recovery",
+      "sic2": "38",
+      "employees": 11000
+    },
+    {
+      "sector": "Remediation activities and other waste management services. This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.",
+      "sic2": "39",
+      "employees": 1250
+    },
+    {
+      "sector": "Construction of buildings",
+      "sic2": "41",
+      "employees": 36000
+    },
+    {
+      "sector": "Civil engineering",
+      "sic2": "42",
+      "employees": 10000
+    },
+    {
+      "sector": "Specialised construction activities",
+      "sic2": "43",
+      "employees": 85000
+    },
+    {
+      "sector": "Wholesale and retail trade and repair of motor vehicles and motorcycles",
+      "sic2": "45",
+      "employees": 56000
+    },
+    {
+      "sector": "Wholesale trade, except of motor vehicles and motorcycles",
+      "sic2": "46",
+      "employees": 132000
+    },
+    {
+      "sector": "Retail trade, except of motor vehicles and motorcycles",
+      "sic2": "47",
+      "employees": 234000
+    },
+    {
+      "sector": "Land transport and transport via pipelines",
+      "sic2": "49",
+      "employees": 55000
+    },
+    {
+      "sector": "Water transport",
+      "sic2": "50",
+      "employees": 0
+    },
+    {
+      "sector": "Air transport",
+      "sic2": "51",
+      "employees": 1750
+    },
+    {
+      "sector": "Warehousing and support activities for transportation",
+      "sic2": "52",
+      "employees": 55000
+    },
+    {
+      "sector": "Postal and courier activities",
+      "sic2": "53",
+      "employees": 36000
+    },
+    {
+      "sector": "Accommodation",
+      "sic2": "55",
+      "employees": 26000
+    },
+    {
+      "sector": "Food and beverage service activities",
+      "sic2": "56",
+      "employees": 131000
+    },
+    {
+      "sector": "Publishing activities",
+      "sic2": "58",
+      "employees": 3000
+    },
+    {
+      "sector": "Motion picture, video and television programme production, sound recording and music publishing activities",
+      "sic2": "59",
+      "employees": 4000
+    },
+    {
+      "sector": "Programming and broadcasting activities",
+      "sic2": "60",
+      "employees": 900
+    },
+    {
+      "sector": "Telecommunications",
+      "sic2": "61",
+      "employees": 10000
+    },
+    {
+      "sector": "Computer programming, consultancy and related activities",
+      "sic2": "62",
+      "employees": 43000
+    },
+    {
+      "sector": "Information service activities",
+      "sic2": "63",
+      "employees": 1750
+    },
+    {
+      "sector": "Financial service activities, except insurance and pension funding",
+      "sic2": "64",
+      "employees": 32000
+    },
+    {
+      "sector": "Insurance, reinsurance and pension funding, except compulsory social security",
+      "sic2": "65",
+      "employees": 7000
+    },
+    {
+      "sector": "Activities auxiliary to financial services and insurance activities",
+      "sic2": "66",
+      "employees": 26000
+    },
+    {
+      "sector": "Real estate activities",
+      "sic2": "68",
+      "employees": 41000
+    },
+    {
+      "sector": "Legal and accounting activities",
+      "sic2": "69",
+      "employees": 44000
+    },
+    {
+      "sector": "Activities of head offices; management consultancy activities",
+      "sic2": "70",
+      "employees": 51000
+    },
+    {
+      "sector": "Architectural and engineering activities; technical testing and analysis",
+      "sic2": "71",
+      "employees": 42000
+    },
+    {
+      "sector": "Scientific research and development",
+      "sic2": "72",
+      "employees": 3000
+    },
+    {
+      "sector": "Advertising and market research",
+      "sic2": "73",
+      "employees": 7000
+    },
+    {
+      "sector": "Other professional, scientific and technical activities",
+      "sic2": "74",
+      "employees": 16000
+    },
+    {
+      "sector": "Veterinary activities",
+      "sic2": "75",
+      "employees": 3000
+    },
+    {
+      "sector": "Rental and leasing activities",
+      "sic2": "77",
+      "employees": 16000
+    },
+    {
+      "sector": "Employment activities",
+      "sic2": "78",
+      "employees": 89000
+    },
+    {
+      "sector": "Travel agency, tour operator and other reservation service and related activities",
+      "sic2": "79",
+      "employees": 8000
+    },
+    {
+      "sector": "Security and investigation activities",
+      "sic2": "80",
+      "employees": 11000
+    },
+    {
+      "sector": "Services to buildings and landscape activities",
+      "sic2": "81",
+      "employees": 51000
+    },
+    {
+      "sector": "Office administrative, office support and other business support activities",
+      "sic2": "82",
+      "employees": 32000
+    },
+    {
+      "sector": "Public administration and defence; compulsory social security",
+      "sic2": "84",
+      "employees": 96000
+    },
+    {
+      "sector": "Education",
+      "sic2": "85",
+      "employees": 231000
+    },
+    {
+      "sector": "Human health activities",
+      "sic2": "86",
+      "employees": 184000
+    },
+    {
+      "sector": "Residential care activities",
+      "sic2": "87",
+      "employees": 59000
+    },
+    {
+      "sector": "Social work activities without accommodation",
+      "sic2": "88",
+      "employees": 64000
+    },
+    {
+      "sector": "Creative, arts and entertainment activities",
+      "sic2": "90",
+      "employees": 6000
+    },
+    {
+      "sector": "Libraries, archives, museums and other cultural activities",
+      "sic2": "91",
+      "employees": 7000
+    },
+    {
+      "sector": "Gambling and betting activities",
+      "sic2": "92",
+      "employees": 9000
+    },
+    {
+      "sector": "Sports activities and amusement and recreation activities",
+      "sic2": "93",
+      "employees": 36000
+    },
+    {
+      "sector": "Activities of membership organisations",
+      "sic2": "94",
+      "employees": 18000
+    },
+    {
+      "sector": "Repair of computers and personal and household goods",
+      "sic2": "95",
+      "employees": 4500
+    },
+    {
+      "sector": "Other personal service activities",
+      "sic2": "96",
+      "employees": 31000
+    },
+    {
+      "sector": "Activities of households as employers of domestic personnel",
+      "sic2": "97",
+      "employees": 0
+    },
+    {
+      "sector": "Undifferentiated goods- and services-producing activities of private households for own use",
+      "sic2": "98",
+      "employees": 0
+    },
+    {
+      "sector": "Activities of extraterritorial organisations and bodies",
+      "sic2": "99",
+      "employees": 0
+    }
+  ],
+  "East Midlands": [
+    {
+      "sector": "Crop and animal production, hunting and related service activities",
+      "sic2": "01",
+      "employees": 36000
+    },
+    {
+      "sector": "Forestry and logging",
+      "sic2": "02",
+      "employees": 900
+    },
+    {
+      "sector": "Fishing and aquaculture",
+      "sic2": "03",
+      "employees": 75
+    },
+    {
+      "sector": "Mining of coal and lignite",
+      "sic2": "05",
+      "employees": 75
+    },
+    {
+      "sector": "Extraction of crude petroleum and natural gas",
+      "sic2": "06",
+      "employees": 175
+    },
+    {
+      "sector": "Mining of metal ores",
+      "sic2": "07",
+      "employees": 0
+    },
+    {
+      "sector": "Other mining and quarrying",
+      "sic2": "08",
+      "employees": 5000
+    },
+    {
+      "sector": "Mining support service activities",
+      "sic2": "09",
+      "employees": 500
+    },
+    {
+      "sector": "Manufacture of food products",
+      "sic2": "10",
+      "employees": 56000
+    },
+    {
+      "sector": "Manufacture of beverages",
+      "sic2": "11",
+      "employees": 1750
+    },
+    {
+      "sector": "Manufacture of tobacco products",
+      "sic2": "12",
+      "employees": 400
+    },
+    {
+      "sector": "Manufacture of textiles",
+      "sic2": "13",
+      "employees": 6000
+    },
+    {
+      "sector": "Manufacture of wearing apparel",
+      "sic2": "14",
+      "employees": 6000
+    },
+    {
+      "sector": "Manufacture of leather and related products",
+      "sic2": "15",
+      "employees": 2000
+    },
+    {
+      "sector": "Manufacture of wood and of products of wood and cork, except furniture;manufacture of articles of straw and plaiting materials",
+      "sic2": "16",
+      "employees": 8000
+    },
+    {
+      "sector": "Manufacture of paper and paper products",
+      "sic2": "17",
+      "employees": 8000
+    },
+    {
+      "sector": "Printing and reproduction of recorded media",
+      "sic2": "18",
+      "employees": 13000
+    },
+    {
+      "sector": "Manufacture of coke and refined petroleum products",
+      "sic2": "19",
+      "employees": 125
+    },
+    {
+      "sector": "Manufacture of chemicals and chemical products",
+      "sic2": "20",
+      "employees": 6000
+    },
+    {
+      "sector": "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+      "sic2": "21",
+      "employees": 2250
+    },
+    {
+      "sector": "Manufacture of rubber and plastic products",
+      "sic2": "22",
+      "employees": 22000
+    },
+    {
+      "sector": "Manufacture of other non-metallic mineral products",
+      "sic2": "23",
+      "employees": 11000
+    },
+    {
+      "sector": "Manufacture of basic metals",
+      "sic2": "24",
+      "employees": 4500
+    },
+    {
+      "sector": "Manufacture of fabricated metal products, except machinery and equipment",
+      "sic2": "25",
+      "employees": 34000
+    },
+    {
+      "sector": "Manufacture of computer, electronic and optical products",
+      "sic2": "26",
+      "employees": 10000
+    },
+    {
+      "sector": "Manufacture of electrical equipment",
+      "sic2": "27",
+      "employees": 8000
+    },
+    {
+      "sector": "Manufacture of machinery and equipment n.e.c.",
+      "sic2": "28",
+      "employees": 20000
+    },
+    {
+      "sector": "Manufacture of motor vehicles, trailers and semi-trailers",
+      "sic2": "29",
+      "employees": 9000
+    },
+    {
+      "sector": "Manufacture of other transport equipment",
+      "sic2": "30",
+      "employees": 18000
+    },
+    {
+      "sector": "Manufacture of furniture",
+      "sic2": "31",
+      "employees": 12000
+    },
+    {
+      "sector": "Other manufacturing",
+      "sic2": "32",
+      "employees": 5000
+    },
+    {
+      "sector": "Repair and installation of machinery and equipment",
+      "sic2": "33",
+      "employees": 10000
+    },
+    {
+      "sector": "Electricity, gas, steam and air conditioning supply",
+      "sic2": "35",
+      "employees": 17000
+    },
+    {
+      "sector": "Water collection, treatment and supply",
+      "sic2": "36",
+      "employees": 2250
+    },
+    {
+      "sector": "Sewerage",
+      "sic2": "37",
+      "employees": 1250
+    },
+    {
+      "sector": "Waste collection, treatment and disposal activities; materials recovery",
+      "sic2": "38",
+      "employees": 9000
+    },
+    {
+      "sector": "Remediation activities and other waste management services. This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.",
+      "sic2": "39",
+      "employees": 250
+    },
+    {
+      "sector": "Construction of buildings",
+      "sic2": "41",
+      "employees": 25000
+    },
+    {
+      "sector": "Civil engineering",
+      "sic2": "42",
+      "employees": 17000
+    },
+    {
+      "sector": "Specialised construction activities",
+      "sic2": "43",
+      "employees": 65000
+    },
+    {
+      "sector": "Wholesale and retail trade and repair of motor vehicles and motorcycles",
+      "sic2": "45",
+      "employees": 43000
+    },
+    {
+      "sector": "Wholesale trade, except of motor vehicles and motorcycles",
+      "sic2": "46",
+      "employees": 93000
+    },
+    {
+      "sector": "Retail trade, except of motor vehicles and motorcycles",
+      "sic2": "47",
+      "employees": 217000
+    },
+    {
+      "sector": "Land transport and transport via pipelines",
+      "sic2": "49",
+      "employees": 40000
+    },
+    {
+      "sector": "Water transport",
+      "sic2": "50",
+      "employees": 20
+    },
+    {
+      "sector": "Air transport",
+      "sic2": "51",
+      "employees": 1750
+    },
+    {
+      "sector": "Warehousing and support activities for transportation",
+      "sic2": "52",
+      "employees": 43000
+    },
+    {
+      "sector": "Postal and courier activities",
+      "sic2": "53",
+      "employees": 20000
+    },
+    {
+      "sector": "Accommodation",
+      "sic2": "55",
+      "employees": 25000
+    },
+    {
+      "sector": "Food and beverage service activities",
+      "sic2": "56",
+      "employees": 92000
+    },
+    {
+      "sector": "Publishing activities",
+      "sic2": "58",
+      "employees": 3000
+    },
+    {
+      "sector": "Motion picture, video and television programme production, sound recording and music publishing activities",
+      "sic2": "59",
+      "employees": 1750
+    },
+    {
+      "sector": "Programming and broadcasting activities",
+      "sic2": "60",
+      "employees": 400
+    },
+    {
+      "sector": "Telecommunications",
+      "sic2": "61",
+      "employees": 7000
+    },
+    {
+      "sector": "Computer programming, consultancy and related activities",
+      "sic2": "62",
+      "employees": 28000
+    },
+    {
+      "sector": "Information service activities",
+      "sic2": "63",
+      "employees": 5000
+    },
+    {
+      "sector": "Financial service activities, except insurance and pension funding",
+      "sic2": "64",
+      "employees": 19000
+    },
+    {
+      "sector": "Insurance, reinsurance and pension funding, except compulsory social security",
+      "sic2": "65",
+      "employees": 1250
+    },
+    {
+      "sector": "Activities auxiliary to financial services and insurance activities",
+      "sic2": "66",
+      "employees": 15000
+    },
+    {
+      "sector": "Real estate activities",
+      "sic2": "68",
+      "employees": 26000
+    },
+    {
+      "sector": "Legal and accounting activities",
+      "sic2": "69",
+      "employees": 28000
+    },
+    {
+      "sector": "Activities of head offices; management consultancy activities",
+      "sic2": "70",
+      "employees": 41000
+    },
+    {
+      "sector": "Architectural and engineering activities; technical testing and analysis",
+      "sic2": "71",
+      "employees": 31000
+    },
+    {
+      "sector": "Scientific research and development",
+      "sic2": "72",
+      "employees": 4000
+    },
+    {
+      "sector": "Advertising and market research",
+      "sic2": "73",
+      "employees": 4000
+    },
+    {
+      "sector": "Other professional, scientific and technical activities",
+      "sic2": "74",
+      "employees": 16000
+    },
+    {
+      "sector": "Veterinary activities",
+      "sic2": "75",
+      "employees": 3500
+    },
+    {
+      "sector": "Rental and leasing activities",
+      "sic2": "77",
+      "employees": 12000
+    },
+    {
+      "sector": "Employment activities",
+      "sic2": "78",
+      "employees": 109000
+    },
+    {
+      "sector": "Travel agency, tour operator and other reservation service and related activities",
+      "sic2": "79",
+      "employees": 6000
+    },
+    {
+      "sector": "Security and investigation activities",
+      "sic2": "80",
+      "employees": 10000
+    },
+    {
+      "sector": "Services to buildings and landscape activities",
+      "sic2": "81",
+      "employees": 34000
+    },
+    {
+      "sector": "Office administrative, office support and other business support activities",
+      "sic2": "82",
+      "employees": 38000
+    },
+    {
+      "sector": "Public administration and defence; compulsory social security",
+      "sic2": "84",
+      "employees": 75000
+    },
+    {
+      "sector": "Education",
+      "sic2": "85",
+      "employees": 188000
+    },
+    {
+      "sector": "Human health activities",
+      "sic2": "86",
+      "employees": 154000
+    },
+    {
+      "sector": "Residential care activities",
+      "sic2": "87",
+      "employees": 50000
+    },
+    {
+      "sector": "Social work activities without accommodation",
+      "sic2": "88",
+      "employees": 53000
+    },
+    {
+      "sector": "Creative, arts and entertainment activities",
+      "sic2": "90",
+      "employees": 4000
+    },
+    {
+      "sector": "Libraries, archives, museums and other cultural activities",
+      "sic2": "91",
+      "employees": 5000
+    },
+    {
+      "sector": "Gambling and betting activities",
+      "sic2": "92",
+      "employees": 5000
+    },
+    {
+      "sector": "Sports activities and amusement and recreation activities",
+      "sic2": "93",
+      "employees": 29000
+    },
+    {
+      "sector": "Activities of membership organisations",
+      "sic2": "94",
+      "employees": 15000
+    },
+    {
+      "sector": "Repair of computers and personal and household goods",
+      "sic2": "95",
+      "employees": 3500
+    },
+    {
+      "sector": "Other personal service activities",
+      "sic2": "96",
+      "employees": 20000
+    },
+    {
+      "sector": "Activities of households as employers of domestic personnel",
+      "sic2": "97",
+      "employees": 0
+    },
+    {
+      "sector": "Undifferentiated goods- and services-producing activities of private households for own use",
+      "sic2": "98",
+      "employees": 0
+    },
+    {
+      "sector": "Activities of extraterritorial organisations and bodies",
+      "sic2": "99",
+      "employees": 0
+    }
+  ],
+  "South East": [
+    {
+      "sector": "Crop and animal production, hunting and related service activities",
+      "sic2": "01",
+      "employees": 51000
+    },
+    {
+      "sector": "Forestry and logging",
+      "sic2": "02",
+      "employees": 4000
+    },
+    {
+      "sector": "Fishing and aquaculture",
+      "sic2": "03",
+      "employees": 1000
+    },
+    {
+      "sector": "Mining of coal and lignite",
+      "sic2": "05",
+      "employees": 0
+    },
+    {
+      "sector": "Extraction of crude petroleum and natural gas",
+      "sic2": "06",
+      "employees": 1000
+    },
+    {
+      "sector": "Mining of metal ores",
+      "sic2": "07",
+      "employees": 0
+    },
+    {
+      "sector": "Other mining and quarrying",
+      "sic2": "08",
+      "employees": 1250
+    },
+    {
+      "sector": "Mining support service activities",
+      "sic2": "09",
+      "employees": 125
+    },
+    {
+      "sector": "Manufacture of food products",
+      "sic2": "10",
+      "employees": 22000
+    },
+    {
+      "sector": "Manufacture of beverages",
+      "sic2": "11",
+      "employees": 2000
+    },
+    {
+      "sector": "Manufacture of tobacco products",
+      "sic2": "12",
+      "employees": 0
+    },
+    {
+      "sector": "Manufacture of textiles",
+      "sic2": "13",
+      "employees": 2500
+    },
+    {
+      "sector": "Manufacture of wearing apparel",
+      "sic2": "14",
+      "employees": 1500
+    },
+    {
+      "sector": "Manufacture of leather and related products",
+      "sic2": "15",
+      "employees": 175
+    },
+    {
+      "sector": "Manufacture of wood and of products of wood and cork, except furniture;manufacture of articles of straw and plaiting materials",
+      "sic2": "16",
+      "employees": 6000
+    },
+    {
+      "sector": "Manufacture of paper and paper products",
+      "sic2": "17",
+      "employees": 5000
+    },
+    {
+      "sector": "Printing and reproduction of recorded media",
+      "sic2": "18",
+      "employees": 16000
+    },
+    {
+      "sector": "Manufacture of coke and refined petroleum products",
+      "sic2": "19",
+      "employees": 1500
+    },
+    {
+      "sector": "Manufacture of chemicals and chemical products",
+      "sic2": "20",
+      "employees": 11000
+    },
+    {
+      "sector": "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+      "sic2": "21",
+      "employees": 5000
+    },
+    {
+      "sector": "Manufacture of rubber and plastic products",
+      "sic2": "22",
+      "employees": 13000
+    },
+    {
+      "sector": "Manufacture of other non-metallic mineral products",
+      "sic2": "23",
+      "employees": 9000
+    },
+    {
+      "sector": "Manufacture of basic metals",
+      "sic2": "24",
+      "employees": 1750
+    },
+    {
+      "sector": "Manufacture of fabricated metal products, except machinery and equipment",
+      "sic2": "25",
+      "employees": 39000
+    },
+    {
+      "sector": "Manufacture of computer, electronic and optical products",
+      "sic2": "26",
+      "employees": 22000
+    },
+    {
+      "sector": "Manufacture of electrical equipment",
+      "sic2": "27",
+      "employees": 13000
+    },
+    {
+      "sector": "Manufacture of machinery and equipment n.e.c.",
+      "sic2": "28",
+      "employees": 22000
+    },
+    {
+      "sector": "Manufacture of motor vehicles, trailers and semi-trailers",
+      "sic2": "29",
+      "employees": 13000
+    },
+    {
+      "sector": "Manufacture of other transport equipment",
+      "sic2": "30",
+      "employees": 12000
+    },
+    {
+      "sector": "Manufacture of furniture",
+      "sic2": "31",
+      "employees": 6000
+    },
+    {
+      "sector": "Other manufacturing",
+      "sic2": "32",
+      "employees": 17000
+    },
+    {
+      "sector": "Repair and installation of machinery and equipment",
+      "sic2": "33",
+      "employees": 15000
+    },
+    {
+      "sector": "Electricity, gas, steam and air conditioning supply",
+      "sic2": "35",
+      "employees": 17000
+    },
+    {
+      "sector": "Water collection, treatment and supply",
+      "sic2": "36",
+      "employees": 4500
+    },
+    {
+      "sector": "Sewerage",
+      "sic2": "37",
+      "employees": 4000
+    },
+    {
+      "sector": "Waste collection, treatment and disposal activities; materials recovery",
+      "sic2": "38",
+      "employees": 17000
+    },
+    {
+      "sector": "Remediation activities and other waste management services. This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.",
+      "sic2": "39",
+      "employees": 800
+    },
+    {
+      "sector": "Construction of buildings",
+      "sic2": "41",
+      "employees": 67000
+    },
+    {
+      "sector": "Civil engineering",
+      "sic2": "42",
+      "employees": 17000
+    },
+    {
+      "sector": "Specialised construction activities",
+      "sic2": "43",
+      "employees": 115000
+    },
+    {
+      "sector": "Wholesale and retail trade and repair of motor vehicles and motorcycles",
+      "sic2": "45",
+      "employees": 84000
+    },
+    {
+      "sector": "Wholesale trade, except of motor vehicles and motorcycles",
+      "sic2": "46",
+      "employees": 198000
+    },
+    {
+      "sector": "Retail trade, except of motor vehicles and motorcycles",
+      "sic2": "47",
+      "employees": 415000
+    },
+    {
+      "sector": "Land transport and transport via pipelines",
+      "sic2": "49",
+      "employees": 59000
+    },
+    {
+      "sector": "Water transport",
+      "sic2": "50",
+      "employees": 3500
+    },
+    {
+      "sector": "Air transport",
+      "sic2": "51",
+      "employees": 12000
+    },
+    {
+      "sector": "Warehousing and support activities for transportation",
+      "sic2": "52",
+      "employees": 76000
+    },
+    {
+      "sector": "Postal and courier activities",
+      "sic2": "53",
+      "employees": 33000
+    },
+    {
+      "sector": "Accommodation",
+      "sic2": "55",
+      "employees": 59000
+    },
+    {
+      "sector": "Food and beverage service activities",
+      "sic2": "56",
+      "employees": 248000
+    },
+    {
+      "sector": "Publishing activities",
+      "sic2": "58",
+      "employees": 29000
+    },
+    {
+      "sector": "Motion picture, video and television programme production, sound recording and music publishing activities",
+      "sic2": "59",
+      "employees": 12000
+    },
+    {
+      "sector": "Programming and broadcasting activities",
+      "sic2": "60",
+      "employees": 1500
+    },
+    {
+      "sector": "Telecommunications",
+      "sic2": "61",
+      "employees": 50000
+    },
+    {
+      "sector": "Computer programming, consultancy and related activities",
+      "sic2": "62",
+      "employees": 152000
+    },
+    {
+      "sector": "Information service activities",
+      "sic2": "63",
+      "employees": 11000
+    },
+    {
+      "sector": "Financial service activities, except insurance and pension funding",
+      "sic2": "64",
+      "employees": 43000
+    },
+    {
+      "sector": "Insurance, reinsurance and pension funding, except compulsory social security",
+      "sic2": "65",
+      "employees": 25000
+    },
+    {
+      "sector": "Activities auxiliary to financial services and insurance activities",
+      "sic2": "66",
+      "employees": 51000
+    },
+    {
+      "sector": "Real estate activities",
+      "sic2": "68",
+      "employees": 77000
+    },
+    {
+      "sector": "Legal and accounting activities",
+      "sic2": "69",
+      "employees": 87000
+    },
+    {
+      "sector": "Activities of head offices; management consultancy activities",
+      "sic2": "70",
+      "employees": 120000
+    },
+    {
+      "sector": "Architectural and engineering activities; technical testing and analysis",
+      "sic2": "71",
+      "employees": 66000
+    },
+    {
+      "sector": "Scientific research and development",
+      "sic2": "72",
+      "employees": 38000
+    },
+    {
+      "sector": "Advertising and market research",
+      "sic2": "73",
+      "employees": 32000
+    },
+    {
+      "sector": "Other professional, scientific and technical activities",
+      "sic2": "74",
+      "employees": 26000
+    },
+    {
+      "sector": "Veterinary activities",
+      "sic2": "75",
+      "employees": 9000
+    },
+    {
+      "sector": "Rental and leasing activities",
+      "sic2": "77",
+      "employees": 24000
+    },
+    {
+      "sector": "Employment activities",
+      "sic2": "78",
+      "employees": 113000
+    },
+    {
+      "sector": "Travel agency, tour operator and other reservation service and related activities",
+      "sic2": "79",
+      "employees": 12000
+    },
+    {
+      "sector": "Security and investigation activities",
+      "sic2": "80",
+      "employees": 21000
+    },
+    {
+      "sector": "Services to buildings and landscape activities",
+      "sic2": "81",
+      "employees": 100000
+    },
+    {
+      "sector": "Office administrative, office support and other business support activities",
+      "sic2": "82",
+      "employees": 52000
+    },
+    {
+      "sector": "Public administration and defence; compulsory social security",
+      "sic2": "84",
+      "employees": 132000
+    },
+    {
+      "sector": "Education",
+      "sic2": "85",
+      "employees": 420000
+    },
+    {
+      "sector": "Human health activities",
+      "sic2": "86",
+      "employees": 290000
+    },
+    {
+      "sector": "Residential care activities",
+      "sic2": "87",
+      "employees": 118000
+    },
+    {
+      "sector": "Social work activities without accommodation",
+      "sic2": "88",
+      "employees": 113000
+    },
+    {
+      "sector": "Creative, arts and entertainment activities",
+      "sic2": "90",
+      "employees": 10000
+    },
+    {
+      "sector": "Libraries, archives, museums and other cultural activities",
+      "sic2": "91",
+      "employees": 12000
+    },
+    {
+      "sector": "Gambling and betting activities",
+      "sic2": "92",
+      "employees": 8000
+    },
+    {
+      "sector": "Sports activities and amusement and recreation activities",
+      "sic2": "93",
+      "employees": 73000
+    },
+    {
+      "sector": "Activities of membership organisations",
+      "sic2": "94",
+      "employees": 34000
+    },
+    {
+      "sector": "Repair of computers and personal and household goods",
+      "sic2": "95",
+      "employees": 10000
+    },
+    {
+      "sector": "Other personal service activities",
+      "sic2": "96",
+      "employees": 51000
+    },
+    {
+      "sector": "Activities of households as employers of domestic personnel",
+      "sic2": "97",
+      "employees": 0
+    },
+    {
+      "sector": "Undifferentiated goods- and services-producing activities of private households for own use",
+      "sic2": "98",
+      "employees": 0
+    },
+    {
+      "sector": "Activities of extraterritorial organisations and bodies",
+      "sic2": "99",
+      "employees": 0
+    }
+  ],
+  "South West": [
+    {
+      "sector": "Crop and animal production, hunting and related service activities",
+      "sic2": "01",
+      "employees": 68000
+    },
+    {
+      "sector": "Forestry and logging",
+      "sic2": "02",
+      "employees": 2250
+    },
+    {
+      "sector": "Fishing and aquaculture",
+      "sic2": "03",
+      "employees": 1500
+    },
+    {
+      "sector": "Mining of coal and lignite",
+      "sic2": "05",
+      "employees": 0
+    },
+    {
+      "sector": "Extraction of crude petroleum and natural gas",
+      "sic2": "06",
+      "employees": 150
+    },
+    {
+      "sector": "Mining of metal ores",
+      "sic2": "07",
+      "employees": 0
+    },
+    {
+      "sector": "Other mining and quarrying",
+      "sic2": "08",
+      "employees": 3500
+    },
+    {
+      "sector": "Mining support service activities",
+      "sic2": "09",
+      "employees": 225
+    },
+    {
+      "sector": "Manufacture of food products",
+      "sic2": "10",
+      "employees": 31000
+    },
+    {
+      "sector": "Manufacture of beverages",
+      "sic2": "11",
+      "employees": 2500
+    },
+    {
+      "sector": "Manufacture of tobacco products",
+      "sic2": "12",
+      "employees": 150
+    },
+    {
+      "sector": "Manufacture of textiles",
+      "sic2": "13",
+      "employees": 3000
+    },
+    {
+      "sector": "Manufacture of wearing apparel",
+      "sic2": "14",
+      "employees": 900
+    },
+    {
+      "sector": "Manufacture of leather and related products",
+      "sic2": "15",
+      "employees": 1500
+    },
+    {
+      "sector": "Manufacture of wood and of products of wood and cork, except furniture;manufacture of articles of straw and plaiting materials",
+      "sic2": "16",
+      "employees": 5000
+    },
+    {
+      "sector": "Manufacture of paper and paper products",
+      "sic2": "17",
+      "employees": 4500
+    },
+    {
+      "sector": "Printing and reproduction of recorded media",
+      "sic2": "18",
+      "employees": 8000
+    },
+    {
+      "sector": "Manufacture of coke and refined petroleum products",
+      "sic2": "19",
+      "employees": 300
+    },
+    {
+      "sector": "Manufacture of chemicals and chemical products",
+      "sic2": "20",
+      "employees": 5000
+    },
+    {
+      "sector": "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+      "sic2": "21",
+      "employees": 2250
+    },
+    {
+      "sector": "Manufacture of rubber and plastic products",
+      "sic2": "22",
+      "employees": 13000
+    },
+    {
+      "sector": "Manufacture of other non-metallic mineral products",
+      "sic2": "23",
+      "employees": 3000
+    },
+    {
+      "sector": "Manufacture of basic metals",
+      "sic2": "24",
+      "employees": 2250
+    },
+    {
+      "sector": "Manufacture of fabricated metal products, except machinery and equipment",
+      "sic2": "25",
+      "employees": 24000
+    },
+    {
+      "sector": "Manufacture of computer, electronic and optical products",
+      "sic2": "26",
+      "employees": 11000
+    },
+    {
+      "sector": "Manufacture of electrical equipment",
+      "sic2": "27",
+      "employees": 12000
+    },
+    {
+      "sector": "Manufacture of machinery and equipment n.e.c.",
+      "sic2": "28",
+      "employees": 18000
+    },
+    {
+      "sector": "Manufacture of motor vehicles, trailers and semi-trailers",
+      "sic2": "29",
+      "employees": 9000
+    },
+    {
+      "sector": "Manufacture of other transport equipment",
+      "sic2": "30",
+      "employees": 32000
+    },
+    {
+      "sector": "Manufacture of furniture",
+      "sic2": "31",
+      "employees": 8000
+    },
+    {
+      "sector": "Other manufacturing",
+      "sic2": "32",
+      "employees": 6000
+    },
+    {
+      "sector": "Repair and installation of machinery and equipment",
+      "sic2": "33",
+      "employees": 10000
+    },
+    {
+      "sector": "Electricity, gas, steam and air conditioning supply",
+      "sic2": "35",
+      "employees": 8000
+    },
+    {
+      "sector": "Water collection, treatment and supply",
+      "sic2": "36",
+      "employees": 4000
+    },
+    {
+      "sector": "Sewerage",
+      "sic2": "37",
+      "employees": 2000
+    },
+    {
+      "sector": "Waste collection, treatment and disposal activities; materials recovery",
+      "sic2": "38",
+      "employees": 11000
+    },
+    {
+      "sector": "Remediation activities and other waste management services. This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.",
+      "sic2": "39",
+      "employees": 200
+    },
+    {
+      "sector": "Construction of buildings",
+      "sic2": "41",
+      "employees": 35000
+    },
+    {
+      "sector": "Civil engineering",
+      "sic2": "42",
+      "employees": 13000
+    },
+    {
+      "sector": "Specialised construction activities",
+      "sic2": "43",
+      "employees": 79000
+    },
+    {
+      "sector": "Wholesale and retail trade and repair of motor vehicles and motorcycles",
+      "sic2": "45",
+      "employees": 63000
+    },
+    {
+      "sector": "Wholesale trade, except of motor vehicles and motorcycles",
+      "sic2": "46",
+      "employees": 91000
+    },
+    {
+      "sector": "Retail trade, except of motor vehicles and motorcycles",
+      "sic2": "47",
+      "employees": 264000
+    },
+    {
+      "sector": "Land transport and transport via pipelines",
+      "sic2": "49",
+      "employees": 44000
+    },
+    {
+      "sector": "Water transport",
+      "sic2": "50",
+      "employees": 1500
+    },
+    {
+      "sector": "Air transport",
+      "sic2": "51",
+      "employees": 2000
+    },
+    {
+      "sector": "Warehousing and support activities for transportation",
+      "sic2": "52",
+      "employees": 32000
+    },
+    {
+      "sector": "Postal and courier activities",
+      "sic2": "53",
+      "employees": 27000
+    },
+    {
+      "sector": "Accommodation",
+      "sic2": "55",
+      "employees": 57000
+    },
+    {
+      "sector": "Food and beverage service activities",
+      "sic2": "56",
+      "employees": 143000
+    },
+    {
+      "sector": "Publishing activities",
+      "sic2": "58",
+      "employees": 6000
+    },
+    {
+      "sector": "Motion picture, video and television programme production, sound recording and music publishing activities",
+      "sic2": "59",
+      "employees": 4500
+    },
+    {
+      "sector": "Programming and broadcasting activities",
+      "sic2": "60",
+      "employees": 400
+    },
+    {
+      "sector": "Telecommunications",
+      "sic2": "61",
+      "employees": 16000
+    },
+    {
+      "sector": "Computer programming, consultancy and related activities",
+      "sic2": "62",
+      "employees": 34000
+    },
+    {
+      "sector": "Information service activities",
+      "sic2": "63",
+      "employees": 8000
+    },
+    {
+      "sector": "Financial service activities, except insurance and pension funding",
+      "sic2": "64",
+      "employees": 39000
+    },
+    {
+      "sector": "Insurance, reinsurance and pension funding, except compulsory social security",
+      "sic2": "65",
+      "employees": 8000
+    },
+    {
+      "sector": "Activities auxiliary to financial services and insurance activities",
+      "sic2": "66",
+      "employees": 32000
+    },
+    {
+      "sector": "Real estate activities",
+      "sic2": "68",
+      "employees": 46000
+    },
+    {
+      "sector": "Legal and accounting activities",
+      "sic2": "69",
+      "employees": 55000
+    },
+    {
+      "sector": "Activities of head offices; management consultancy activities",
+      "sic2": "70",
+      "employees": 43000
+    },
+    {
+      "sector": "Architectural and engineering activities; technical testing and analysis",
+      "sic2": "71",
+      "employees": 55000
+    },
+    {
+      "sector": "Scientific research and development",
+      "sic2": "72",
+      "employees": 9000
+    },
+    {
+      "sector": "Advertising and market research",
+      "sic2": "73",
+      "employees": 8000
+    },
+    {
+      "sector": "Other professional, scientific and technical activities",
+      "sic2": "74",
+      "employees": 14000
+    },
+    {
+      "sector": "Veterinary activities",
+      "sic2": "75",
+      "employees": 11000
+    },
+    {
+      "sector": "Rental and leasing activities",
+      "sic2": "77",
+      "employees": 13000
+    },
+    {
+      "sector": "Employment activities",
+      "sic2": "78",
+      "employees": 54000
+    },
+    {
+      "sector": "Travel agency, tour operator and other reservation service and related activities",
+      "sic2": "79",
+      "employees": 6000
+    },
+    {
+      "sector": "Security and investigation activities",
+      "sic2": "80",
+      "employees": 12000
+    },
+    {
+      "sector": "Services to buildings and landscape activities",
+      "sic2": "81",
+      "employees": 46000
+    },
+    {
+      "sector": "Office administrative, office support and other business support activities",
+      "sic2": "82",
+      "employees": 39000
+    },
+    {
+      "sector": "Public administration and defence; compulsory social security",
+      "sic2": "84",
+      "employees": 96000
+    },
+    {
+      "sector": "Education",
+      "sic2": "85",
+      "employees": 212000
+    },
+    {
+      "sector": "Human health activities",
+      "sic2": "86",
+      "employees": 195000
+    },
+    {
+      "sector": "Residential care activities",
+      "sic2": "87",
+      "employees": 78000
+    },
+    {
+      "sector": "Social work activities without accommodation",
+      "sic2": "88",
+      "employees": 77000
+    },
+    {
+      "sector": "Creative, arts and entertainment activities",
+      "sic2": "90",
+      "employees": 7000
+    },
+    {
+      "sector": "Libraries, archives, museums and other cultural activities",
+      "sic2": "91",
+      "employees": 8000
+    },
+    {
+      "sector": "Gambling and betting activities",
+      "sic2": "92",
+      "employees": 4000
+    },
+    {
+      "sector": "Sports activities and amusement and recreation activities",
+      "sic2": "93",
+      "employees": 35000
+    },
+    {
+      "sector": "Activities of membership organisations",
+      "sic2": "94",
+      "employees": 19000
+    },
+    {
+      "sector": "Repair of computers and personal and household goods",
+      "sic2": "95",
+      "employees": 4000
+    },
+    {
+      "sector": "Other personal service activities",
+      "sic2": "96",
+      "employees": 25000
+    },
+    {
+      "sector": "Activities of households as employers of domestic personnel",
+      "sic2": "97",
+      "employees": 0
+    },
+    {
+      "sector": "Undifferentiated goods- and services-producing activities of private households for own use",
+      "sic2": "98",
+      "employees": 0
+    },
+    {
+      "sector": "Activities of extraterritorial organisations and bodies",
+      "sic2": "99",
+      "employees": 0
+    }
+  ],
+  "North West": [
+    {
+      "sector": "Crop and animal production, hunting and related service activities",
+      "sic2": "01",
+      "employees": 36000
+    },
+    {
+      "sector": "Forestry and logging",
+      "sic2": "02",
+      "employees": 1000
+    },
+    {
+      "sector": "Fishing and aquaculture",
+      "sic2": "03",
+      "employees": 400
+    },
+    {
+      "sector": "Mining of coal and lignite",
+      "sic2": "05",
+      "employees": 0
+    },
+    {
+      "sector": "Extraction of crude petroleum and natural gas",
+      "sic2": "06",
+      "employees": 300
+    },
+    {
+      "sector": "Mining of metal ores",
+      "sic2": "07",
+      "employees": 0
+    },
+    {
+      "sector": "Other mining and quarrying",
+      "sic2": "08",
+      "employees": 1000
+    },
+    {
+      "sector": "Mining support service activities",
+      "sic2": "09",
+      "employees": 150
+    },
+    {
+      "sector": "Manufacture of food products",
+      "sic2": "10",
+      "employees": 49000
+    },
+    {
+      "sector": "Manufacture of beverages",
+      "sic2": "11",
+      "employees": 3000
+    },
+    {
+      "sector": "Manufacture of tobacco products",
+      "sic2": "12",
+      "employees": 40
+    },
+    {
+      "sector": "Manufacture of textiles",
+      "sic2": "13",
+      "employees": 12000
+    },
+    {
+      "sector": "Manufacture of wearing apparel",
+      "sic2": "14",
+      "employees": 1750
+    },
+    {
+      "sector": "Manufacture of leather and related products",
+      "sic2": "15",
+      "employees": 1000
+    },
+    {
+      "sector": "Manufacture of wood and of products of wood and cork, except furniture;manufacture of articles of straw and plaiting materials",
+      "sic2": "16",
+      "employees": 5000
+    },
+    {
+      "sector": "Manufacture of paper and paper products",
+      "sic2": "17",
+      "employees": 12000
+    },
+    {
+      "sector": "Printing and reproduction of recorded media",
+      "sic2": "18",
+      "employees": 10000
+    },
+    {
+      "sector": "Manufacture of coke and refined petroleum products",
+      "sic2": "19",
+      "employees": 1500
+    },
+    {
+      "sector": "Manufacture of chemicals and chemical products",
+      "sic2": "20",
+      "employees": 20000
+    },
+    {
+      "sector": "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+      "sic2": "21",
+      "employees": 6000
+    },
+    {
+      "sector": "Manufacture of rubber and plastic products",
+      "sic2": "22",
+      "employees": 24000
+    },
+    {
+      "sector": "Manufacture of other non-metallic mineral products",
+      "sic2": "23",
+      "employees": 8000
+    },
+    {
+      "sector": "Manufacture of basic metals",
+      "sic2": "24",
+      "employees": 15000
+    },
+    {
+      "sector": "Manufacture of fabricated metal products, except machinery and equipment",
+      "sic2": "25",
+      "employees": 34000
+    },
+    {
+      "sector": "Manufacture of computer, electronic and optical products",
+      "sic2": "26",
+      "employees": 10000
+    },
+    {
+      "sector": "Manufacture of electrical equipment",
+      "sic2": "27",
+      "employees": 12000
+    },
+    {
+      "sector": "Manufacture of machinery and equipment n.e.c.",
+      "sic2": "28",
+      "employees": 16000
+    },
+    {
+      "sector": "Manufacture of motor vehicles, trailers and semi-trailers",
+      "sic2": "29",
+      "employees": 20000
+    },
+    {
+      "sector": "Manufacture of other transport equipment",
+      "sic2": "30",
+      "employees": 24000
+    },
+    {
+      "sector": "Manufacture of furniture",
+      "sic2": "31",
+      "employees": 8000
+    },
+    {
+      "sector": "Other manufacturing",
+      "sic2": "32",
+      "employees": 6000
+    },
+    {
+      "sector": "Repair and installation of machinery and equipment",
+      "sic2": "33",
+      "employees": 9000
+    },
+    {
+      "sector": "Electricity, gas, steam and air conditioning supply",
+      "sic2": "35",
+      "employees": 12000
+    },
+    {
+      "sector": "Water collection, treatment and supply",
+      "sic2": "36",
+      "employees": 1250
+    },
+    {
+      "sector": "Sewerage",
+      "sic2": "37",
+      "employees": 2250
+    },
+    {
+      "sector": "Waste collection, treatment and disposal activities; materials recovery",
+      "sic2": "38",
+      "employees": 18000
+    },
+    {
+      "sector": "Remediation activities and other waste management services. This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.",
+      "sic2": "39",
+      "employees": 900
+    },
+    {
+      "sector": "Construction of buildings",
+      "sic2": "41",
+      "employees": 36000
+    },
+    {
+      "sector": "Civil engineering",
+      "sic2": "42",
+      "employees": 26000
+    },
+    {
+      "sector": "Specialised construction activities",
+      "sic2": "43",
+      "employees": 83000
+    },
+    {
+      "sector": "Wholesale and retail trade and repair of motor vehicles and motorcycles",
+      "sic2": "45",
+      "employees": 48000
+    },
+    {
+      "sector": "Wholesale trade, except of motor vehicles and motorcycles",
+      "sic2": "46",
+      "employees": 140000
+    },
+    {
+      "sector": "Retail trade, except of motor vehicles and motorcycles",
+      "sic2": "47",
+      "employees": 346000
+    },
+    {
+      "sector": "Land transport and transport via pipelines",
+      "sic2": "49",
+      "employees": 60000
+    },
+    {
+      "sector": "Water transport",
+      "sic2": "50",
+      "employees": 1250
+    },
+    {
+      "sector": "Air transport",
+      "sic2": "51",
+      "employees": 7000
+    },
+    {
+      "sector": "Warehousing and support activities for transportation",
+      "sic2": "52",
+      "employees": 55000
+    },
+    {
+      "sector": "Postal and courier activities",
+      "sic2": "53",
+      "employees": 26000
+    },
+    {
+      "sector": "Accommodation",
+      "sic2": "55",
+      "employees": 52000
+    },
+    {
+      "sector": "Food and beverage service activities",
+      "sic2": "56",
+      "employees": 186000
+    },
+    {
+      "sector": "Publishing activities",
+      "sic2": "58",
+      "employees": 8000
+    },
+    {
+      "sector": "Motion picture, video and television programme production, sound recording and music publishing activities",
+      "sic2": "59",
+      "employees": 4500
+    },
+    {
+      "sector": "Programming and broadcasting activities",
+      "sic2": "60",
+      "employees": 3500
+    },
+    {
+      "sector": "Telecommunications",
+      "sic2": "61",
+      "employees": 30000
+    },
+    {
+      "sector": "Computer programming, consultancy and related activities",
+      "sic2": "62",
+      "employees": 54000
+    },
+    {
+      "sector": "Information service activities",
+      "sic2": "63",
+      "employees": 4500
+    },
+    {
+      "sector": "Financial service activities, except insurance and pension funding",
+      "sic2": "64",
+      "employees": 45000
+    },
+    {
+      "sector": "Insurance, reinsurance and pension funding, except compulsory social security",
+      "sic2": "65",
+      "employees": 10000
+    },
+    {
+      "sector": "Activities auxiliary to financial services and insurance activities",
+      "sic2": "66",
+      "employees": 28000
+    },
+    {
+      "sector": "Real estate activities",
+      "sic2": "68",
+      "employees": 55000
+    },
+    {
+      "sector": "Legal and accounting activities",
+      "sic2": "69",
+      "employees": 90000
+    },
+    {
+      "sector": "Activities of head offices; management consultancy activities",
+      "sic2": "70",
+      "employees": 59000
+    },
+    {
+      "sector": "Architectural and engineering activities; technical testing and analysis",
+      "sic2": "71",
+      "employees": 48000
+    },
+    {
+      "sector": "Scientific research and development",
+      "sic2": "72",
+      "employees": 6000
+    },
+    {
+      "sector": "Advertising and market research",
+      "sic2": "73",
+      "employees": 12000
+    },
+    {
+      "sector": "Other professional, scientific and technical activities",
+      "sic2": "74",
+      "employees": 14000
+    },
+    {
+      "sector": "Veterinary activities",
+      "sic2": "75",
+      "employees": 6000
+    },
+    {
+      "sector": "Rental and leasing activities",
+      "sic2": "77",
+      "employees": 21000
+    },
+    {
+      "sector": "Employment activities",
+      "sic2": "78",
+      "employees": 93000
+    },
+    {
+      "sector": "Travel agency, tour operator and other reservation service and related activities",
+      "sic2": "79",
+      "employees": 11000
+    },
+    {
+      "sector": "Security and investigation activities",
+      "sic2": "80",
+      "employees": 23000
+    },
+    {
+      "sector": "Services to buildings and landscape activities",
+      "sic2": "81",
+      "employees": 73000
+    },
+    {
+      "sector": "Office administrative, office support and other business support activities",
+      "sic2": "82",
+      "employees": 58000
+    },
+    {
+      "sector": "Public administration and defence; compulsory social security",
+      "sic2": "84",
+      "employees": 146000
+    },
+    {
+      "sector": "Education",
+      "sic2": "85",
+      "employees": 279000
+    },
+    {
+      "sector": "Human health activities",
+      "sic2": "86",
+      "employees": 267000
+    },
+    {
+      "sector": "Residential care activities",
+      "sic2": "87",
+      "employees": 90000
+    },
+    {
+      "sector": "Social work activities without accommodation",
+      "sic2": "88",
+      "employees": 104000
+    },
+    {
+      "sector": "Creative, arts and entertainment activities",
+      "sic2": "90",
+      "employees": 8000
+    },
+    {
+      "sector": "Libraries, archives, museums and other cultural activities",
+      "sic2": "91",
+      "employees": 9000
+    },
+    {
+      "sector": "Gambling and betting activities",
+      "sic2": "92",
+      "employees": 13000
+    },
+    {
+      "sector": "Sports activities and amusement and recreation activities",
+      "sic2": "93",
+      "employees": 48000
+    },
+    {
+      "sector": "Activities of membership organisations",
+      "sic2": "94",
+      "employees": 22000
+    },
+    {
+      "sector": "Repair of computers and personal and household goods",
+      "sic2": "95",
+      "employees": 7000
+    },
+    {
+      "sector": "Other personal service activities",
+      "sic2": "96",
+      "employees": 35000
+    },
+    {
+      "sector": "Activities of households as employers of domestic personnel",
+      "sic2": "97",
+      "employees": 0
+    },
+    {
+      "sector": "Undifferentiated goods- and services-producing activities of private households for own use",
+      "sic2": "98",
+      "employees": 0
+    },
+    {
+      "sector": "Activities of extraterritorial organisations and bodies",
+      "sic2": "99",
+      "employees": 0
+    }
+  ],
+  "North East": [
+    {
+      "sector": "Crop and animal production, hunting and related service activities",
+      "sic2": "01",
+      "employees": 11000
+    },
+    {
+      "sector": "Forestry and logging",
+      "sic2": "02",
+      "employees": 300
+    },
+    {
+      "sector": "Fishing and aquaculture",
+      "sic2": "03",
+      "employees": 150
+    },
+    {
+      "sector": "Mining of coal and lignite",
+      "sic2": "05",
+      "employees": 200
+    },
+    {
+      "sector": "Extraction of crude petroleum and natural gas",
+      "sic2": "06",
+      "employees": 200
+    },
+    {
+      "sector": "Mining of metal ores",
+      "sic2": "07",
+      "employees": 0
+    },
+    {
+      "sector": "Other mining and quarrying",
+      "sic2": "08",
+      "employees": 1500
+    },
+    {
+      "sector": "Mining support service activities",
+      "sic2": "09",
+      "employees": 25
+    },
+    {
+      "sector": "Manufacture of food products",
+      "sic2": "10",
+      "employees": 10000
+    },
+    {
+      "sector": "Manufacture of beverages",
+      "sic2": "11",
+      "employees": 1250
+    },
+    {
+      "sector": "Manufacture of tobacco products",
+      "sic2": "12",
+      "employees": 0
+    },
+    {
+      "sector": "Manufacture of textiles",
+      "sic2": "13",
+      "employees": 2250
+    },
+    {
+      "sector": "Manufacture of wearing apparel",
+      "sic2": "14",
+      "employees": 1000
+    },
+    {
+      "sector": "Manufacture of leather and related products",
+      "sic2": "15",
+      "employees": 0
+    },
+    {
+      "sector": "Manufacture of wood and of products of wood and cork, except furniture;manufacture of articles of straw and plaiting materials",
+      "sic2": "16",
+      "employees": 2500
+    },
+    {
+      "sector": "Manufacture of paper and paper products",
+      "sic2": "17",
+      "employees": 3500
+    },
+    {
+      "sector": "Printing and reproduction of recorded media",
+      "sic2": "18",
+      "employees": 8000
+    },
+    {
+      "sector": "Manufacture of coke and refined petroleum products",
+      "sic2": "19",
+      "employees": 125
+    },
+    {
+      "sector": "Manufacture of chemicals and chemical products",
+      "sic2": "20",
+      "employees": 9000
+    },
+    {
+      "sector": "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+      "sic2": "21",
+      "employees": 2500
+    },
+    {
+      "sector": "Manufacture of rubber and plastic products",
+      "sic2": "22",
+      "employees": 7000
+    },
+    {
+      "sector": "Manufacture of other non-metallic mineral products",
+      "sic2": "23",
+      "employees": 2500
+    },
+    {
+      "sector": "Manufacture of basic metals",
+      "sic2": "24",
+      "employees": 2250
+    },
+    {
+      "sector": "Manufacture of fabricated metal products, except machinery and equipment",
+      "sic2": "25",
+      "employees": 16000
+    },
+    {
+      "sector": "Manufacture of computer, electronic and optical products",
+      "sic2": "26",
+      "employees": 2500
+    },
+    {
+      "sector": "Manufacture of electrical equipment",
+      "sic2": "27",
+      "employees": 6000
+    },
+    {
+      "sector": "Manufacture of machinery and equipment n.e.c.",
+      "sic2": "28",
+      "employees": 12000
+    },
+    {
+      "sector": "Manufacture of motor vehicles, trailers and semi-trailers",
+      "sic2": "29",
+      "employees": 14000
+    },
+    {
+      "sector": "Manufacture of other transport equipment",
+      "sic2": "30",
+      "employees": 1750
+    },
+    {
+      "sector": "Manufacture of furniture",
+      "sic2": "31",
+      "employees": 6000
+    },
+    {
+      "sector": "Other manufacturing",
+      "sic2": "32",
+      "employees": 4000
+    },
+    {
+      "sector": "Repair and installation of machinery and equipment",
+      "sic2": "33",
+      "employees": 4500
+    },
+    {
+      "sector": "Electricity, gas, steam and air conditioning supply",
+      "sic2": "35",
+      "employees": 4500
+    },
+    {
+      "sector": "Water collection, treatment and supply",
+      "sic2": "36",
+      "employees": 2500
+    },
+    {
+      "sector": "Sewerage",
+      "sic2": "37",
+      "employees": 250
+    },
+    {
+      "sector": "Waste collection, treatment and disposal activities; materials recovery",
+      "sic2": "38",
+      "employees": 3500
+    },
+    {
+      "sector": "Remediation activities and other waste management services. This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.",
+      "sic2": "39",
+      "employees": 400
+    },
+    {
+      "sector": "Construction of buildings",
+      "sic2": "41",
+      "employees": 16000
+    },
+    {
+      "sector": "Civil engineering",
+      "sic2": "42",
+      "employees": 7000
+    },
+    {
+      "sector": "Specialised construction activities",
+      "sic2": "43",
+      "employees": 29000
+    },
+    {
+      "sector": "Wholesale and retail trade and repair of motor vehicles and motorcycles",
+      "sic2": "45",
+      "employees": 20000
+    },
+    {
+      "sector": "Wholesale trade, except of motor vehicles and motorcycles",
+      "sic2": "46",
+      "employees": 28000
+    },
+    {
+      "sector": "Retail trade, except of motor vehicles and motorcycles",
+      "sic2": "47",
+      "employees": 108000
+    },
+    {
+      "sector": "Land transport and transport via pipelines",
+      "sic2": "49",
+      "employees": 21000
+    },
+    {
+      "sector": "Water transport",
+      "sic2": "50",
+      "employees": 450
+    },
+    {
+      "sector": "Air transport",
+      "sic2": "51",
+      "employees": 1750
+    },
+    {
+      "sector": "Warehousing and support activities for transportation",
+      "sic2": "52",
+      "employees": 13000
+    },
+    {
+      "sector": "Postal and courier activities",
+      "sic2": "53",
+      "employees": 8000
+    },
+    {
+      "sector": "Accommodation",
+      "sic2": "55",
+      "employees": 16000
+    },
+    {
+      "sector": "Food and beverage service activities",
+      "sic2": "56",
+      "employees": 64000
+    },
+    {
+      "sector": "Publishing activities",
+      "sic2": "58",
+      "employees": 3000
+    },
+    {
+      "sector": "Motion picture, video and television programme production, sound recording and music publishing activities",
+      "sic2": "59",
+      "employees": 2000
+    },
+    {
+      "sector": "Programming and broadcasting activities",
+      "sic2": "60",
+      "employees": 200
+    },
+    {
+      "sector": "Telecommunications",
+      "sic2": "61",
+      "employees": 10000
+    },
+    {
+      "sector": "Computer programming, consultancy and related activities",
+      "sic2": "62",
+      "employees": 16000
+    },
+    {
+      "sector": "Information service activities",
+      "sic2": "63",
+      "employees": 1500
+    },
+    {
+      "sector": "Financial service activities, except insurance and pension funding",
+      "sic2": "64",
+      "employees": 16000
+    },
+    {
+      "sector": "Insurance, reinsurance and pension funding, except compulsory social security",
+      "sic2": "65",
+      "employees": 1750
+    },
+    {
+      "sector": "Activities auxiliary to financial services and insurance activities",
+      "sic2": "66",
+      "employees": 6000
+    },
+    {
+      "sector": "Real estate activities",
+      "sic2": "68",
+      "employees": 19000
+    },
+    {
+      "sector": "Legal and accounting activities",
+      "sic2": "69",
+      "employees": 16000
+    },
+    {
+      "sector": "Activities of head offices; management consultancy activities",
+      "sic2": "70",
+      "employees": 12000
+    },
+    {
+      "sector": "Architectural and engineering activities; technical testing and analysis",
+      "sic2": "71",
+      "employees": 32000
+    },
+    {
+      "sector": "Scientific research and development",
+      "sic2": "72",
+      "employees": 5000
+    },
+    {
+      "sector": "Advertising and market research",
+      "sic2": "73",
+      "employees": 2250
+    },
+    {
+      "sector": "Other professional, scientific and technical activities",
+      "sic2": "74",
+      "employees": 2500
+    },
+    {
+      "sector": "Veterinary activities",
+      "sic2": "75",
+      "employees": 1250
+    },
+    {
+      "sector": "Rental and leasing activities",
+      "sic2": "77",
+      "employees": 4000
+    },
+    {
+      "sector": "Employment activities",
+      "sic2": "78",
+      "employees": 25000
+    },
+    {
+      "sector": "Travel agency, tour operator and other reservation service and related activities",
+      "sic2": "79",
+      "employees": 3000
+    },
+    {
+      "sector": "Security and investigation activities",
+      "sic2": "80",
+      "employees": 5000
+    },
+    {
+      "sector": "Services to buildings and landscape activities",
+      "sic2": "81",
+      "employees": 22000
+    },
+    {
+      "sector": "Office administrative, office support and other business support activities",
+      "sic2": "82",
+      "employees": 19000
+    },
+    {
+      "sector": "Public administration and defence; compulsory social security",
+      "sic2": "84",
+      "employees": 67000
+    },
+    {
+      "sector": "Education",
+      "sic2": "85",
+      "employees": 118000
+    },
+    {
+      "sector": "Human health activities",
+      "sic2": "86",
+      "employees": 101000
+    },
+    {
+      "sector": "Residential care activities",
+      "sic2": "87",
+      "employees": 31000
+    },
+    {
+      "sector": "Social work activities without accommodation",
+      "sic2": "88",
+      "employees": 37000
+    },
+    {
+      "sector": "Creative, arts and entertainment activities",
+      "sic2": "90",
+      "employees": 3000
+    },
+    {
+      "sector": "Libraries, archives, museums and other cultural activities",
+      "sic2": "91",
+      "employees": 4500
+    },
+    {
+      "sector": "Gambling and betting activities",
+      "sic2": "92",
+      "employees": 6000
+    },
+    {
+      "sector": "Sports activities and amusement and recreation activities",
+      "sic2": "93",
+      "employees": 10000
+    },
+    {
+      "sector": "Activities of membership organisations",
+      "sic2": "94",
+      "employees": 12000
+    },
+    {
+      "sector": "Repair of computers and personal and household goods",
+      "sic2": "95",
+      "employees": 1250
+    },
+    {
+      "sector": "Other personal service activities",
+      "sic2": "96",
+      "employees": 8000
+    },
+    {
+      "sector": "Activities of households as employers of domestic personnel",
+      "sic2": "97",
+      "employees": 0
+    },
+    {
+      "sector": "Undifferentiated goods- and services-producing activities of private households for own use",
+      "sic2": "98",
+      "employees": 0
+    },
+    {
+      "sector": "Activities of extraterritorial organisations and bodies",
+      "sic2": "99",
+      "employees": 0
+    }
+  ],
+  "London": [
+    {
+      "sector": "Crop and animal production, hunting and related service activities",
+      "sic2": "01",
+      "employees": 1250
+    },
+    {
+      "sector": "Forestry and logging",
+      "sic2": "02",
+      "employees": 600
+    },
+    {
+      "sector": "Fishing and aquaculture",
+      "sic2": "03",
+      "employees": 100
+    },
+    {
+      "sector": "Mining of coal and lignite",
+      "sic2": "05",
+      "employees": 0
+    },
+    {
+      "sector": "Extraction of crude petroleum and natural gas",
+      "sic2": "06",
+      "employees": 2500
+    },
+    {
+      "sector": "Mining of metal ores",
+      "sic2": "07",
+      "employees": 0
+    },
+    {
+      "sector": "Other mining and quarrying",
+      "sic2": "08",
+      "employees": 350
+    },
+    {
+      "sector": "Mining support service activities",
+      "sic2": "09",
+      "employees": 300
+    },
+    {
+      "sector": "Manufacture of food products",
+      "sic2": "10",
+      "employees": 26000
+    },
+    {
+      "sector": "Manufacture of beverages",
+      "sic2": "11",
+      "employees": 1750
+    },
+    {
+      "sector": "Manufacture of tobacco products",
+      "sic2": "12",
+      "employees": 0
+    },
+    {
+      "sector": "Manufacture of textiles",
+      "sic2": "13",
+      "employees": 2250
+    },
+    {
+      "sector": "Manufacture of wearing apparel",
+      "sic2": "14",
+      "employees": 11000
+    },
+    {
+      "sector": "Manufacture of leather and related products",
+      "sic2": "15",
+      "employees": 400
+    },
+    {
+      "sector": "Manufacture of wood and of products of wood and cork, except furniture;manufacture of articles of straw and plaiting materials",
+      "sic2": "16",
+      "employees": 2000
+    },
+    {
+      "sector": "Manufacture of paper and paper products",
+      "sic2": "17",
+      "employees": 450
+    },
+    {
+      "sector": "Printing and reproduction of recorded media",
+      "sic2": "18",
+      "employees": 16000
+    },
+    {
+      "sector": "Manufacture of coke and refined petroleum products",
+      "sic2": "19",
+      "employees": 20
+    },
+    {
+      "sector": "Manufacture of chemicals and chemical products",
+      "sic2": "20",
+      "employees": 3000
+    },
+    {
+      "sector": "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+      "sic2": "21",
+      "employees": 2000
+    },
+    {
+      "sector": "Manufacture of rubber and plastic products",
+      "sic2": "22",
+      "employees": 7000
+    },
+    {
+      "sector": "Manufacture of other non-metallic mineral products",
+      "sic2": "23",
+      "employees": 3000
+    },
+    {
+      "sector": "Manufacture of basic metals",
+      "sic2": "24",
+      "employees": 600
+    },
+    {
+      "sector": "Manufacture of fabricated metal products, except machinery and equipment",
+      "sic2": "25",
+      "employees": 9000
+    },
+    {
+      "sector": "Manufacture of computer, electronic and optical products",
+      "sic2": "26",
+      "employees": 3500
+    },
+    {
+      "sector": "Manufacture of electrical equipment",
+      "sic2": "27",
+      "employees": 1750
+    },
+    {
+      "sector": "Manufacture of machinery and equipment n.e.c.",
+      "sic2": "28",
+      "employees": 4500
+    },
+    {
+      "sector": "Manufacture of motor vehicles, trailers and semi-trailers",
+      "sic2": "29",
+      "employees": 4500
+    },
+    {
+      "sector": "Manufacture of other transport equipment",
+      "sic2": "30",
+      "employees": 900
+    },
+    {
+      "sector": "Manufacture of furniture",
+      "sic2": "31",
+      "employees": 5000
+    },
+    {
+      "sector": "Other manufacturing",
+      "sic2": "32",
+      "employees": 5000
+    },
+    {
+      "sector": "Repair and installation of machinery and equipment",
+      "sic2": "33",
+      "employees": 7000
+    },
+    {
+      "sector": "Electricity, gas, steam and air conditioning supply",
+      "sic2": "35",
+      "employees": 9000
+    },
+    {
+      "sector": "Water collection, treatment and supply",
+      "sic2": "36",
+      "employees": 900
+    },
+    {
+      "sector": "Sewerage",
+      "sic2": "37",
+      "employees": 3500
+    },
+    {
+      "sector": "Waste collection, treatment and disposal activities; materials recovery",
+      "sic2": "38",
+      "employees": 11000
+    },
+    {
+      "sector": "Remediation activities and other waste management services. This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.",
+      "sic2": "39",
+      "employees": 250
+    },
+    {
+      "sector": "Construction of buildings",
+      "sic2": "41",
+      "employees": 58000
+    },
+    {
+      "sector": "Civil engineering",
+      "sic2": "42",
+      "employees": 25000
+    },
+    {
+      "sector": "Specialised construction activities",
+      "sic2": "43",
+      "employees": 62000
+    },
+    {
+      "sector": "Wholesale and retail trade and repair of motor vehicles and motorcycles",
+      "sic2": "45",
+      "employees": 42000
+    },
+    {
+      "sector": "Wholesale trade, except of motor vehicles and motorcycles",
+      "sic2": "46",
+      "employees": 151000
+    },
+    {
+      "sector": "Retail trade, except of motor vehicles and motorcycles",
+      "sic2": "47",
+      "employees": 437000
+    },
+    {
+      "sector": "Land transport and transport via pipelines",
+      "sic2": "49",
+      "employees": 95000
+    },
+    {
+      "sector": "Water transport",
+      "sic2": "50",
+      "employees": 6000
+    },
+    {
+      "sector": "Air transport",
+      "sic2": "51",
+      "employees": 37000
+    },
+    {
+      "sector": "Warehousing and support activities for transportation",
+      "sic2": "52",
+      "employees": 61000
+    },
+    {
+      "sector": "Postal and courier activities",
+      "sic2": "53",
+      "employees": 29000
+    },
+    {
+      "sector": "Accommodation",
+      "sic2": "55",
+      "employees": 64000
+    },
+    {
+      "sector": "Food and beverage service activities",
+      "sic2": "56",
+      "employees": 313000
+    },
+    {
+      "sector": "Publishing activities",
+      "sic2": "58",
+      "employees": 56000
+    },
+    {
+      "sector": "Motion picture, video and television programme production, sound recording and music publishing activities",
+      "sic2": "59",
+      "employees": 57000
+    },
+    {
+      "sector": "Programming and broadcasting activities",
+      "sic2": "60",
+      "employees": 28000
+    },
+    {
+      "sector": "Telecommunications",
+      "sic2": "61",
+      "employees": 41000
+    },
+    {
+      "sector": "Computer programming, consultancy and related activities",
+      "sic2": "62",
+      "employees": 173000
+    },
+    {
+      "sector": "Information service activities",
+      "sic2": "63",
+      "employees": 32000
+    },
+    {
+      "sector": "Financial service activities, except insurance and pension funding",
+      "sic2": "64",
+      "employees": 180000
+    },
+    {
+      "sector": "Insurance, reinsurance and pension funding, except compulsory social security",
+      "sic2": "65",
+      "employees": 18000
+    },
+    {
+      "sector": "Activities auxiliary to financial services and insurance activities",
+      "sic2": "66",
+      "employees": 164000
+    },
+    {
+      "sector": "Real estate activities",
+      "sic2": "68",
+      "employees": 139000
+    },
+    {
+      "sector": "Legal and accounting activities",
+      "sic2": "69",
+      "employees": 207000
+    },
+    {
+      "sector": "Activities of head offices; management consultancy activities",
+      "sic2": "70",
+      "employees": 265000
+    },
+    {
+      "sector": "Architectural and engineering activities; technical testing and analysis",
+      "sic2": "71",
+      "employees": 91000
+    },
+    {
+      "sector": "Scientific research and development",
+      "sic2": "72",
+      "employees": 18000
+    },
+    {
+      "sector": "Advertising and market research",
+      "sic2": "73",
+      "employees": 78000
+    },
+    {
+      "sector": "Other professional, scientific and technical activities",
+      "sic2": "74",
+      "employees": 45000
+    },
+    {
+      "sector": "Veterinary activities",
+      "sic2": "75",
+      "employees": 4000
+    },
+    {
+      "sector": "Rental and leasing activities",
+      "sic2": "77",
+      "employees": 18000
+    },
+    {
+      "sector": "Employment activities",
+      "sic2": "78",
+      "employees": 179000
+    },
+    {
+      "sector": "Travel agency, tour operator and other reservation service and related activities",
+      "sic2": "79",
+      "employees": 26000
+    },
+    {
+      "sector": "Security and investigation activities",
+      "sic2": "80",
+      "employees": 65000
+    },
+    {
+      "sector": "Services to buildings and landscape activities",
+      "sic2": "81",
+      "employees": 148000
+    },
+    {
+      "sector": "Office administrative, office support and other business support activities",
+      "sic2": "82",
+      "employees": 114000
+    },
+    {
+      "sector": "Public administration and defence; compulsory social security",
+      "sic2": "84",
+      "employees": 216000
+    },
+    {
+      "sector": "Education",
+      "sic2": "85",
+      "employees": 387000
+    },
+    {
+      "sector": "Human health activities",
+      "sic2": "86",
+      "employees": 306000
+    },
+    {
+      "sector": "Residential care activities",
+      "sic2": "87",
+      "employees": 62000
+    },
+    {
+      "sector": "Social work activities without accommodation",
+      "sic2": "88",
+      "employees": 141000
+    },
+    {
+      "sector": "Creative, arts and entertainment activities",
+      "sic2": "90",
+      "employees": 40000
+    },
+    {
+      "sector": "Libraries, archives, museums and other cultural activities",
+      "sic2": "91",
+      "employees": 19000
+    },
+    {
+      "sector": "Gambling and betting activities",
+      "sic2": "92",
+      "employees": 20000
+    },
+    {
+      "sector": "Sports activities and amusement and recreation activities",
+      "sic2": "93",
+      "employees": 57000
+    },
+    {
+      "sector": "Activities of membership organisations",
+      "sic2": "94",
+      "employees": 62000
+    },
+    {
+      "sector": "Repair of computers and personal and household goods",
+      "sic2": "95",
+      "employees": 5000
+    },
+    {
+      "sector": "Other personal service activities",
+      "sic2": "96",
+      "employees": 47000
+    },
+    {
+      "sector": "Activities of households as employers of domestic personnel",
+      "sic2": "97",
+      "employees": 0
+    },
+    {
+      "sector": "Undifferentiated goods- and services-producing activities of private households for own use",
+      "sic2": "98",
+      "employees": 0
+    },
+    {
+      "sector": "Activities of extraterritorial organisations and bodies",
+      "sic2": "99",
+      "employees": 0
+    }
+  ],
+  "Scotland": [
+    {
+      "sector": "Crop and animal production, hunting and related service activities",
+      "sic2": "01",
+      "employees": 67000
+    },
+    {
+      "sector": "Forestry and logging",
+      "sic2": "02",
+      "employees": 3500
+    },
+    {
+      "sector": "Fishing and aquaculture",
+      "sic2": "03",
+      "employees": 4500
+    },
+    {
+      "sector": "Mining of coal and lignite",
+      "sic2": "05",
+      "employees": 225
+    },
+    {
+      "sector": "Extraction of crude petroleum and natural gas",
+      "sic2": "06",
+      "employees": 11000
+    },
+    {
+      "sector": "Mining of metal ores",
+      "sic2": "07",
+      "employees": 0
+    },
+    {
+      "sector": "Other mining and quarrying",
+      "sic2": "08",
+      "employees": 2250
+    },
+    {
+      "sector": "Mining support service activities",
+      "sic2": "09",
+      "employees": 21000
+    },
+    {
+      "sector": "Manufacture of food products",
+      "sic2": "10",
+      "employees": 34000
+    },
+    {
+      "sector": "Manufacture of beverages",
+      "sic2": "11",
+      "employees": 11000
+    },
+    {
+      "sector": "Manufacture of tobacco products",
+      "sic2": "12",
+      "employees": 0
+    },
+    {
+      "sector": "Manufacture of textiles",
+      "sic2": "13",
+      "employees": 4500
+    },
+    {
+      "sector": "Manufacture of wearing apparel",
+      "sic2": "14",
+      "employees": 3000
+    },
+    {
+      "sector": "Manufacture of leather and related products",
+      "sic2": "15",
+      "employees": 800
+    },
+    {
+      "sector": "Manufacture of wood and of products of wood and cork, except furniture;manufacture of articles of straw and plaiting materials",
+      "sic2": "16",
+      "employees": 7000
+    },
+    {
+      "sector": "Manufacture of paper and paper products",
+      "sic2": "17",
+      "employees": 4500
+    },
+    {
+      "sector": "Printing and reproduction of recorded media",
+      "sic2": "18",
+      "employees": 4500
+    },
+    {
+      "sector": "Manufacture of coke and refined petroleum products",
+      "sic2": "19",
+      "employees": 1250
+    },
+    {
+      "sector": "Manufacture of chemicals and chemical products",
+      "sic2": "20",
+      "employees": 6000
+    },
+    {
+      "sector": "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+      "sic2": "21",
+      "employees": 3000
+    },
+    {
+      "sector": "Manufacture of rubber and plastic products",
+      "sic2": "22",
+      "employees": 9000
+    },
+    {
+      "sector": "Manufacture of other non-metallic mineral products",
+      "sic2": "23",
+      "employees": 5000
+    },
+    {
+      "sector": "Manufacture of basic metals",
+      "sic2": "24",
+      "employees": 1750
+    },
+    {
+      "sector": "Manufacture of fabricated metal products, except machinery and equipment",
+      "sic2": "25",
+      "employees": 21000
+    },
+    {
+      "sector": "Manufacture of computer, electronic and optical products",
+      "sic2": "26",
+      "employees": 11000
+    },
+    {
+      "sector": "Manufacture of electrical equipment",
+      "sic2": "27",
+      "employees": 4000
+    },
+    {
+      "sector": "Manufacture of machinery and equipment n.e.c.",
+      "sic2": "28",
+      "employees": 16000
+    },
+    {
+      "sector": "Manufacture of motor vehicles, trailers and semi-trailers",
+      "sic2": "29",
+      "employees": 3500
+    },
+    {
+      "sector": "Manufacture of other transport equipment",
+      "sic2": "30",
+      "employees": 9000
+    },
+    {
+      "sector": "Manufacture of furniture",
+      "sic2": "31",
+      "employees": 3000
+    },
+    {
+      "sector": "Other manufacturing",
+      "sic2": "32",
+      "employees": 5000
+    },
+    {
+      "sector": "Repair and installation of machinery and equipment",
+      "sic2": "33",
+      "employees": 15000
+    },
+    {
+      "sector": "Electricity, gas, steam and air conditioning supply",
+      "sic2": "35",
+      "employees": 18000
+    },
+    {
+      "sector": "Water collection, treatment and supply",
+      "sic2": "36",
+      "employees": 3500
+    },
+    {
+      "sector": "Sewerage",
+      "sic2": "37",
+      "employees": 1250
+    },
+    {
+      "sector": "Waste collection, treatment and disposal activities; materials recovery",
+      "sic2": "38",
+      "employees": 12000
+    },
+    {
+      "sector": "Remediation activities and other waste management services. This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.",
+      "sic2": "39",
+      "employees": 450
+    },
+    {
+      "sector": "Construction of buildings",
+      "sic2": "41",
+      "employees": 39000
+    },
+    {
+      "sector": "Civil engineering",
+      "sic2": "42",
+      "employees": 19000
+    },
+    {
+      "sector": "Specialised construction activities",
+      "sic2": "43",
+      "employees": 79000
+    },
+    {
+      "sector": "Wholesale and retail trade and repair of motor vehicles and motorcycles",
+      "sic2": "45",
+      "employees": 46000
+    },
+    {
+      "sector": "Wholesale trade, except of motor vehicles and motorcycles",
+      "sic2": "46",
+      "employees": 79000
+    },
+    {
+      "sector": "Retail trade, except of motor vehicles and motorcycles",
+      "sic2": "47",
+      "employees": 244000
+    },
+    {
+      "sector": "Land transport and transport via pipelines",
+      "sic2": "49",
+      "employees": 45000
+    },
+    {
+      "sector": "Water transport",
+      "sic2": "50",
+      "employees": 2250
+    },
+    {
+      "sector": "Air transport",
+      "sic2": "51",
+      "employees": 4000
+    },
+    {
+      "sector": "Warehousing and support activities for transportation",
+      "sic2": "52",
+      "employees": 35000
+    },
+    {
+      "sector": "Postal and courier activities",
+      "sic2": "53",
+      "employees": 19000
+    },
+    {
+      "sector": "Accommodation",
+      "sic2": "55",
+      "employees": 60000
+    },
+    {
+      "sector": "Food and beverage service activities",
+      "sic2": "56",
+      "employees": 145000
+    },
+    {
+      "sector": "Publishing activities",
+      "sic2": "58",
+      "employees": 5000
+    },
+    {
+      "sector": "Motion picture, video and television programme production, sound recording and music publishing activities",
+      "sic2": "59",
+      "employees": 5000
+    },
+    {
+      "sector": "Programming and broadcasting activities",
+      "sic2": "60",
+      "employees": 500
+    },
+    {
+      "sector": "Telecommunications",
+      "sic2": "61",
+      "employees": 16000
+    },
+    {
+      "sector": "Computer programming, consultancy and related activities",
+      "sic2": "62",
+      "employees": 34000
+    },
+    {
+      "sector": "Information service activities",
+      "sic2": "63",
+      "employees": 1750
+    },
+    {
+      "sector": "Financial service activities, except insurance and pension funding",
+      "sic2": "64",
+      "employees": 49000
+    },
+    {
+      "sector": "Insurance, reinsurance and pension funding, except compulsory social security",
+      "sic2": "65",
+      "employees": 10000
+    },
+    {
+      "sector": "Activities auxiliary to financial services and insurance activities",
+      "sic2": "66",
+      "employees": 27000
+    },
+    {
+      "sector": "Real estate activities",
+      "sic2": "68",
+      "employees": 34000
+    },
+    {
+      "sector": "Legal and accounting activities",
+      "sic2": "69",
+      "employees": 41000
+    },
+    {
+      "sector": "Activities of head offices; management consultancy activities",
+      "sic2": "70",
+      "employees": 33000
+    },
+    {
+      "sector": "Architectural and engineering activities; technical testing and analysis",
+      "sic2": "71",
+      "employees": 58000
+    },
+    {
+      "sector": "Scientific research and development",
+      "sic2": "72",
+      "employees": 13000
+    },
+    {
+      "sector": "Advertising and market research",
+      "sic2": "73",
+      "employees": 6000
+    },
+    {
+      "sector": "Other professional, scientific and technical activities",
+      "sic2": "74",
+      "employees": 10000
+    },
+    {
+      "sector": "Veterinary activities",
+      "sic2": "75",
+      "employees": 6000
+    },
+    {
+      "sector": "Rental and leasing activities",
+      "sic2": "77",
+      "employees": 16000
+    },
+    {
+      "sector": "Employment activities",
+      "sic2": "78",
+      "employees": 45000
+    },
+    {
+      "sector": "Travel agency, tour operator and other reservation service and related activities",
+      "sic2": "79",
+      "employees": 7000
+    },
+    {
+      "sector": "Security and investigation activities",
+      "sic2": "80",
+      "employees": 13000
+    },
+    {
+      "sector": "Services to buildings and landscape activities",
+      "sic2": "81",
+      "employees": 68000
+    },
+    {
+      "sector": "Office administrative, office support and other business support activities",
+      "sic2": "82",
+      "employees": 35000
+    },
+    {
+      "sector": "Public administration and defence; compulsory social security",
+      "sic2": "84",
+      "employees": 152000
+    },
+    {
+      "sector": "Education",
+      "sic2": "85",
+      "employees": 194000
+    },
+    {
+      "sector": "Human health activities",
+      "sic2": "86",
+      "employees": 239000
+    },
+    {
+      "sector": "Residential care activities",
+      "sic2": "87",
+      "employees": 65000
+    },
+    {
+      "sector": "Social work activities without accommodation",
+      "sic2": "88",
+      "employees": 109000
+    },
+    {
+      "sector": "Creative, arts and entertainment activities",
+      "sic2": "90",
+      "employees": 6000
+    },
+    {
+      "sector": "Libraries, archives, museums and other cultural activities",
+      "sic2": "91",
+      "employees": 12000
+    },
+    {
+      "sector": "Gambling and betting activities",
+      "sic2": "92",
+      "employees": 9000
+    },
+    {
+      "sector": "Sports activities and amusement and recreation activities",
+      "sic2": "93",
+      "employees": 39000
+    },
+    {
+      "sector": "Activities of membership organisations",
+      "sic2": "94",
+      "employees": 14000
+    },
+    {
+      "sector": "Repair of computers and personal and household goods",
+      "sic2": "95",
+      "employees": 3500
+    },
+    {
+      "sector": "Other personal service activities",
+      "sic2": "96",
+      "employees": 24000
+    },
+    {
+      "sector": "Activities of households as employers of domestic personnel",
+      "sic2": "97",
+      "employees": 0
+    },
+    {
+      "sector": "Undifferentiated goods- and services-producing activities of private households for own use",
+      "sic2": "98",
+      "employees": 0
+    },
+    {
+      "sector": "Activities of extraterritorial organisations and bodies",
+      "sic2": "99",
+      "employees": 0
+    }
+  ],
+  "Wales": [
+    {
+      "sector": "Crop and animal production, hunting and related service activities",
+      "sic2": "01",
+      "employees": 59000
+    },
+    {
+      "sector": "Forestry and logging",
+      "sic2": "02",
+      "employees": 1500
+    },
+    {
+      "sector": "Fishing and aquaculture",
+      "sic2": "03",
+      "employees": 350
+    },
+    {
+      "sector": "Mining of coal and lignite",
+      "sic2": "05",
+      "employees": 600
+    },
+    {
+      "sector": "Extraction of crude petroleum and natural gas",
+      "sic2": "06",
+      "employees": 5
+    },
+    {
+      "sector": "Mining of metal ores",
+      "sic2": "07",
+      "employees": 0
+    },
+    {
+      "sector": "Other mining and quarrying",
+      "sic2": "08",
+      "employees": 800
+    },
+    {
+      "sector": "Mining support service activities",
+      "sic2": "09",
+      "employees": 150
+    },
+    {
+      "sector": "Manufacture of food products",
+      "sic2": "10",
+      "employees": 23000
+    },
+    {
+      "sector": "Manufacture of beverages",
+      "sic2": "11",
+      "employees": 1250
+    },
+    {
+      "sector": "Manufacture of tobacco products",
+      "sic2": "12",
+      "employees": 0
+    },
+    {
+      "sector": "Manufacture of textiles",
+      "sic2": "13",
+      "employees": 1000
+    },
+    {
+      "sector": "Manufacture of wearing apparel",
+      "sic2": "14",
+      "employees": 600
+    },
+    {
+      "sector": "Manufacture of leather and related products",
+      "sic2": "15",
+      "employees": 50
+    },
+    {
+      "sector": "Manufacture of wood and of products of wood and cork, except furniture;manufacture of articles of straw and plaiting materials",
+      "sic2": "16",
+      "employees": 3000
+    },
+    {
+      "sector": "Manufacture of paper and paper products",
+      "sic2": "17",
+      "employees": 3000
+    },
+    {
+      "sector": "Printing and reproduction of recorded media",
+      "sic2": "18",
+      "employees": 6000
+    },
+    {
+      "sector": "Manufacture of coke and refined petroleum products",
+      "sic2": "19",
+      "employees": 600
+    },
+    {
+      "sector": "Manufacture of chemicals and chemical products",
+      "sic2": "20",
+      "employees": 6000
+    },
+    {
+      "sector": "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+      "sic2": "21",
+      "employees": 2250
+    },
+    {
+      "sector": "Manufacture of rubber and plastic products",
+      "sic2": "22",
+      "employees": 8000
+    },
+    {
+      "sector": "Manufacture of other non-metallic mineral products",
+      "sic2": "23",
+      "employees": 3500
+    },
+    {
+      "sector": "Manufacture of basic metals",
+      "sic2": "24",
+      "employees": 10000
+    },
+    {
+      "sector": "Manufacture of fabricated metal products, except machinery and equipment",
+      "sic2": "25",
+      "employees": 18000
+    },
+    {
+      "sector": "Manufacture of computer, electronic and optical products",
+      "sic2": "26",
+      "employees": 5000
+    },
+    {
+      "sector": "Manufacture of electrical equipment",
+      "sic2": "27",
+      "employees": 7000
+    },
+    {
+      "sector": "Manufacture of machinery and equipment n.e.c.",
+      "sic2": "28",
+      "employees": 5000
+    },
+    {
+      "sector": "Manufacture of motor vehicles, trailers and semi-trailers",
+      "sic2": "29",
+      "employees": 10000
+    },
+    {
+      "sector": "Manufacture of other transport equipment",
+      "sic2": "30",
+      "employees": 11000
+    },
+    {
+      "sector": "Manufacture of furniture",
+      "sic2": "31",
+      "employees": 3500
+    },
+    {
+      "sector": "Other manufacturing",
+      "sic2": "32",
+      "employees": 10000
+    },
+    {
+      "sector": "Repair and installation of machinery and equipment",
+      "sic2": "33",
+      "employees": 8000
+    },
+    {
+      "sector": "Electricity, gas, steam and air conditioning supply",
+      "sic2": "35",
+      "employees": 11000
+    },
+    {
+      "sector": "Water collection, treatment and supply",
+      "sic2": "36",
+      "employees": 2250
+    },
+    {
+      "sector": "Sewerage",
+      "sic2": "37",
+      "employees": 1000
+    },
+    {
+      "sector": "Waste collection, treatment and disposal activities; materials recovery",
+      "sic2": "38",
+      "employees": 9000
+    },
+    {
+      "sector": "Remediation activities and other waste management services. This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.",
+      "sic2": "39",
+      "employees": 600
+    },
+    {
+      "sector": "Construction of buildings",
+      "sic2": "41",
+      "employees": 16000
+    },
+    {
+      "sector": "Civil engineering",
+      "sic2": "42",
+      "employees": 11000
+    },
+    {
+      "sector": "Specialised construction activities",
+      "sic2": "43",
+      "employees": 29000
+    },
+    {
+      "sector": "Wholesale and retail trade and repair of motor vehicles and motorcycles",
+      "sic2": "45",
+      "employees": 27000
+    },
+    {
+      "sector": "Wholesale trade, except of motor vehicles and motorcycles",
+      "sic2": "46",
+      "employees": 34000
+    },
+    {
+      "sector": "Retail trade, except of motor vehicles and motorcycles",
+      "sic2": "47",
+      "employees": 137000
+    },
+    {
+      "sector": "Land transport and transport via pipelines",
+      "sic2": "49",
+      "employees": 25000
+    },
+    {
+      "sector": "Water transport",
+      "sic2": "50",
+      "employees": 1000
+    },
+    {
+      "sector": "Air transport",
+      "sic2": "51",
+      "employees": 500
+    },
+    {
+      "sector": "Warehousing and support activities for transportation",
+      "sic2": "52",
+      "employees": 11000
+    },
+    {
+      "sector": "Postal and courier activities",
+      "sic2": "53",
+      "employees": 8000
+    },
+    {
+      "sector": "Accommodation",
+      "sic2": "55",
+      "employees": 29000
+    },
+    {
+      "sector": "Food and beverage service activities",
+      "sic2": "56",
+      "employees": 71000
+    },
+    {
+      "sector": "Publishing activities",
+      "sic2": "58",
+      "employees": 2250
+    },
+    {
+      "sector": "Motion picture, video and television programme production, sound recording and music publishing activities",
+      "sic2": "59",
+      "employees": 3500
+    },
+    {
+      "sector": "Programming and broadcasting activities",
+      "sic2": "60",
+      "employees": 700
+    },
+    {
+      "sector": "Telecommunications",
+      "sic2": "61",
+      "employees": 5000
+    },
+    {
+      "sector": "Computer programming, consultancy and related activities",
+      "sic2": "62",
+      "employees": 8000
+    },
+    {
+      "sector": "Information service activities",
+      "sic2": "63",
+      "employees": 450
+    },
+    {
+      "sector": "Financial service activities, except insurance and pension funding",
+      "sic2": "64",
+      "employees": 14000
+    },
+    {
+      "sector": "Insurance, reinsurance and pension funding, except compulsory social security",
+      "sic2": "65",
+      "employees": 7000
+    },
+    {
+      "sector": "Activities auxiliary to financial services and insurance activities",
+      "sic2": "66",
+      "employees": 8000
+    },
+    {
+      "sector": "Real estate activities",
+      "sic2": "68",
+      "employees": 19000
+    },
+    {
+      "sector": "Legal and accounting activities",
+      "sic2": "69",
+      "employees": 19000
+    },
+    {
+      "sector": "Activities of head offices; management consultancy activities",
+      "sic2": "70",
+      "employees": 11000
+    },
+    {
+      "sector": "Architectural and engineering activities; technical testing and analysis",
+      "sic2": "71",
+      "employees": 22000
+    },
+    {
+      "sector": "Scientific research and development",
+      "sic2": "72",
+      "employees": 2250
+    },
+    {
+      "sector": "Advertising and market research",
+      "sic2": "73",
+      "employees": 1000
+    },
+    {
+      "sector": "Other professional, scientific and technical activities",
+      "sic2": "74",
+      "employees": 4500
+    },
+    {
+      "sector": "Veterinary activities",
+      "sic2": "75",
+      "employees": 6000
+    },
+    {
+      "sector": "Rental and leasing activities",
+      "sic2": "77",
+      "employees": 6000
+    },
+    {
+      "sector": "Employment activities",
+      "sic2": "78",
+      "employees": 28000
+    },
+    {
+      "sector": "Travel agency, tour operator and other reservation service and related activities",
+      "sic2": "79",
+      "employees": 3000
+    },
+    {
+      "sector": "Security and investigation activities",
+      "sic2": "80",
+      "employees": 5000
+    },
+    {
+      "sector": "Services to buildings and landscape activities",
+      "sic2": "81",
+      "employees": 22000
+    },
+    {
+      "sector": "Office administrative, office support and other business support activities",
+      "sic2": "82",
+      "employees": 13000
+    },
+    {
+      "sector": "Public administration and defence; compulsory social security",
+      "sic2": "84",
+      "employees": 86000
+    },
+    {
+      "sector": "Education",
+      "sic2": "85",
+      "employees": 125000
+    },
+    {
+      "sector": "Human health activities",
+      "sic2": "86",
+      "employees": 110000
+    },
+    {
+      "sector": "Residential care activities",
+      "sic2": "87",
+      "employees": 43000
+    },
+    {
+      "sector": "Social work activities without accommodation",
+      "sic2": "88",
+      "employees": 45000
+    },
+    {
+      "sector": "Creative, arts and entertainment activities",
+      "sic2": "90",
+      "employees": 4000
+    },
+    {
+      "sector": "Libraries, archives, museums and other cultural activities",
+      "sic2": "91",
+      "employees": 4000
+    },
+    {
+      "sector": "Gambling and betting activities",
+      "sic2": "92",
+      "employees": 3500
+    },
+    {
+      "sector": "Sports activities and amusement and recreation activities",
+      "sic2": "93",
+      "employees": 23000
+    },
+    {
+      "sector": "Activities of membership organisations",
+      "sic2": "94",
+      "employees": 7000
+    },
+    {
+      "sector": "Repair of computers and personal and household goods",
+      "sic2": "95",
+      "employees": 600
+    },
+    {
+      "sector": "Other personal service activities",
+      "sic2": "96",
+      "employees": 13000
+    },
+    {
+      "sector": "Activities of households as employers of domestic personnel",
+      "sic2": "97",
+      "employees": 0
+    },
+    {
+      "sector": "Undifferentiated goods- and services-producing activities of private households for own use",
+      "sic2": "98",
+      "employees": 0
+    },
+    {
+      "sector": "Activities of extraterritorial organisations and bodies",
+      "sic2": "99",
+      "employees": 0
+    }
+  ],
+  "Northern Ireland": [
+    {
+      "sic2": "01",
+      "sector": "Crop and animal production, hunting and related service activities",
+      "employees": 50200
+    },
+    {
+      "sic2": "02",
+      "sector": "Forestry and logging",
+      "employees": 300
+    },
+    {
+      "sic2": "03",
+      "sector": "Fishing and aquaculture",
+      "employees": 400
+    },
+    {
+      "sic2": "05",
+      "sector": "Mining of coal and lignite",
+      "employees": 0
+    },
+    {
+      "sic2": "06",
+      "sector": "Extraction of crude petroleum and natural gas",
+      "employees": 0
+    },
+    {
+      "sic2": "07",
+      "sector": "Mining of metal ores",
+      "employees": 0
+    },
+    {
+      "sic2": "08",
+      "sector": "Other mining and quarrying",
+      "employees": 1600
+    },
+    {
+      "sic2": "09",
+      "sector": "Mining support service activities",
+      "employees": 0
+    },
+    {
+      "sic2": "10",
+      "sector": "Manufacture of food products",
+      "employees": 15900
+    },
+    {
+      "sic2": "11",
+      "sector": "Manufacture of beverages",
+      "employees": 1900
+    },
+    {
+      "sic2": "12",
+      "sector": "Manufacture of tobacco products",
+      "employees": 0
+    },
+    {
+      "sic2": "13",
+      "sector": "Manufacture of textiles",
+      "employees": 2000
+    },
+    {
+      "sic2": "14",
+      "sector": "Manufacture of wearing apparel",
+      "employees": 1700
+    },
+    {
+      "sic2": "15",
+      "sector": "Manufacture of leather and related products",
+      "employees": 0
+    },
+    {
+      "sic2": "16",
+      "sector": "Manufacture of wood and of products of wood and cork, except furniture;manufacture of articles of straw and plaiting materials",
+      "employees": 2500
+    },
+    {
+      "sic2": "17",
+      "sector": "Manufacture of paper and paper products",
+      "employees": 1200
+    },
+    {
+      "sic2": "18",
+      "sector": "Printing and reproduction of recorded media",
+      "employees": 1400
+    },
+    {
+      "sic2": "19",
+      "sector": "Manufacture of coke and refined petroleum products",
+      "employees": 0
+    },
+    {
+      "sic2": "20",
+      "sector": "Manufacture of chemicals and chemical products",
+      "employees": 1900
+    },
+    {
+      "sic2": "21",
+      "sector": "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+      "employees": 1700
+    },
+    {
+      "sic2": "22",
+      "sector": "Manufacture of rubber and plastic products",
+      "employees": 6400
+    },
+    {
+      "sic2": "23",
+      "sector": "Manufacture of other non-metallic mineral products",
+      "employees": 4900
+    },
+    {
+      "sic2": "24",
+      "sector": "Manufacture of basic metals",
+      "employees": 500
+    },
+    {
+      "sic2": "25",
+      "sector": "Manufacture of fabricated metal products, except machinery and equipment",
+      "employees": 5900
+    },
+    {
+      "sic2": "26",
+      "sector": "Manufacture of computer, electronic and optical products",
+      "employees": 3400
+    },
+    {
+      "sic2": "27",
+      "sector": "Manufacture of electrical equipment",
+      "employees": 3300
+    },
+    {
+      "sic2": "28",
+      "sector": "Manufacture of machinery and equipment n.e.c.",
+      "employees": 4600
+    },
+    {
+      "sic2": "29",
+      "sector": "Manufacture of motor vehicles, trailers and semi-trailers",
+      "employees": 2700
+    },
+    {
+      "sic2": "30",
+      "sector": "Manufacture of other transport equipment",
+      "employees": 6600
+    },
+    {
+      "sic2": "31",
+      "sector": "Manufacture of furniture",
+      "employees": 2900
+    },
+    {
+      "sic2": "32",
+      "sector": "Other manufacturing",
+      "employees": 800
+    },
+    {
+      "sic2": "33",
+      "sector": "Repair and installation of machinery and equipment",
+      "employees": 800
+    },
+    {
+      "sic2": "35",
+      "sector": "Electricity, gas, steam and air conditioning supply",
+      "employees": 1300
+    },
+    {
+      "sic2": "36",
+      "sector": "Water collection, treatment and supply",
+      "employees": 0
+    },
+    {
+      "sic2": "37",
+      "sector": "Sewerage",
+      "employees": 300
+    },
+    {
+      "sic2": "38",
+      "sector": "Waste collection, treatment and disposal activities; materials recovery",
+      "employees": 4000
+    },
+    {
+      "sic2": "39",
+      "sector": "Remediation activities and other waste management services. This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.",
+      "employees": 0
+    },
+    {
+      "sic2": "41",
+      "sector": "Construction of buildings",
+      "employees": 12300
+    },
+    {
+      "sic2": "42",
+      "sector": "Civil engineering",
+      "employees": 8900
+    },
+    {
+      "sic2": "43",
+      "sector": "Specialised construction activities",
+      "employees": 20800
+    },
+    {
+      "sic2": "45",
+      "sector": "Wholesale and retail trade and repair of motor vehicles and motorcycles",
+      "employees": 10700
+    },
+    {
+      "sic2": "46",
+      "sector": "Wholesale trade, except of motor vehicles and motorcycles",
+      "employees": 27200
+    },
+    {
+      "sic2": "47",
+      "sector": "Retail trade, except of motor vehicles and motorcycles",
+      "employees": 95200
+    },
+    {
+      "sic2": "49",
+      "sector": "Land transport and transport via pipelines",
+      "employees": 15600
+    },
+    {
+      "sic2": "50",
+      "sector": "Water transport",
+      "employees": 400
+    },
+    {
+      "sic2": "51",
+      "sector": "Air transport",
+      "employees": 600
+    },
+    {
+      "sic2": "52",
+      "sector": "Warehousing and support activities for transportation",
+      "employees": 5800
+    },
+    {
+      "sic2": "53",
+      "sector": "Postal and courier activities",
+      "employees": 4700
+    },
+    {
+      "sic2": "55",
+      "sector": "Accommodation",
+      "employees": 9300
+    },
+    {
+      "sic2": "56",
+      "sector": "Food and beverage service activities",
+      "employees": 36100
+    },
+    {
+      "sic2": "58",
+      "sector": "Publishing activities",
+      "employees": 1500
+    },
+    {
+      "sic2": "59",
+      "sector": "Motion picture, video and television programme production, sound recording and music publishing activities",
+      "employees": 800
+    },
+    {
+      "sic2": "60",
+      "sector": "Programming and broadcasting activities",
+      "employees": 0
+    },
+    {
+      "sic2": "61",
+      "sector": "Telecommunications",
+      "employees": 3100
+    },
+    {
+      "sic2": "62",
+      "sector": "Computer programming, consultancy and related activities",
+      "employees": 7700
+    },
+    {
+      "sic2": "63",
+      "sector": "Information service activities",
+      "employees": 0
+    },
+    {
+      "sic2": "64",
+      "sector": "Financial service activities, except insurance and pension funding",
+      "employees": 12500
+    },
+    {
+      "sic2": "65",
+      "sector": "Insurance, reinsurance and pension funding, except compulsory social security",
+      "employees": 1200
+    },
+    {
+      "sic2": "66",
+      "sector": "Activities auxiliary to financial services and insurance activities",
+      "employees": 4000
+    },
+    {
+      "sic2": "68",
+      "sector": "Real estate activities",
+      "employees": 8500
+    },
+    {
+      "sic2": "69",
+      "sector": "Legal and accounting activities",
+      "employees": 20400
+    },
+    {
+      "sic2": "70",
+      "sector": "Activities of head offices; management consultancy activities",
+      "employees": 2700
+    },
+    {
+      "sic2": "71",
+      "sector": "Architectural and engineering activities; technical testing and analysis",
+      "employees": 15000
+    },
+    {
+      "sic2": "72",
+      "sector": "Scientific research and development",
+      "employees": 1700
+    },
+    {
+      "sic2": "73",
+      "sector": "Advertising and market research",
+      "employees": 1200
+    },
+    {
+      "sic2": "74",
+      "sector": "Other professional, scientific and technical activities",
+      "employees": 900
+    },
+    {
+      "sic2": "75",
+      "sector": "Veterinary activities",
+      "employees": 1000
+    },
+    {
+      "sic2": "77",
+      "sector": "Rental and leasing activities",
+      "employees": 1200
+    },
+    {
+      "sic2": "78",
+      "sector": "Employment activities",
+      "employees": 13900
+    },
+    {
+      "sic2": "79",
+      "sector": "Travel agency, tour operator and other reservation service and related activities",
+      "employees": 1800
+    },
+    {
+      "sic2": "80",
+      "sector": "Security and investigation activities",
+      "employees": 4700
+    },
+    {
+      "sic2": "81",
+      "sector": "Services to buildings and landscape activities",
+      "employees": 12500
+    },
+    {
+      "sic2": "82",
+      "sector": "Office administrative, office support and other business support activities",
+      "employees": 7400
+    },
+    {
+      "sic2": "84",
+      "sector": "Public administration and defence; compulsory social security",
+      "employees": 57200
+    },
+    {
+      "sic2": "85",
+      "sector": "Education",
+      "employees": 68200
+    },
+    {
+      "sic2": "86",
+      "sector": "Human health activities",
+      "employees": 76000
+    },
+    {
+      "sic2": "87",
+      "sector": "Residential care activities",
+      "employees": 15500
+    },
+    {
+      "sic2": "88",
+      "sector": "Social work activities without accommodation",
+      "employees": 28900
+    },
+    {
+      "sic2": "90",
+      "sector": "Creative, arts and entertainment activities",
+      "employees": 600
+    },
+    {
+      "sic2": "91",
+      "sector": "Libraries, archives, museums and other cultural activities",
+      "employees": 2500
+    },
+    {
+      "sic2": "92",
+      "sector": "Gambling and betting activities",
+      "employees": 2000
+    },
+    {
+      "sic2": "93",
+      "sector": "Sports activities and amusement and recreation activities",
+      "employees": 8300
+    },
+    {
+      "sic2": "94",
+      "sector": "Activities of membership organisations",
+      "employees": 7100
+    },
+    {
+      "sic2": "95",
+      "sector": "Repair of computers and personal and household goods",
+      "employees": 600
+    },
+    {
+      "sic2": "96",
+      "sector": "Other personal service activities",
+      "employees": 9000
+    },
+    {
+      "sic2": "97",
+      "sector": "Activities of households as employers of domestic personnel",
+      "employees": 0
+    },
+    {
+      "sic2": "98",
+      "sector": "Undifferentiated goods- and services-producing activities of private households for own use",
+      "employees": 0
+    },
+    {
+      "sic2": "99",
+      "sector": "Activities of extraterritorial organisations and bodies",
+      "employees": 0
+    }
+  ],
+  "United Kingdom": [
+    {
+      "sic2": "10",
+      "sector": "Manufacture of food products",
+      "employees": 372900
+    },
+    {
+      "sic2": "11",
+      "sector": "Manufacture of beverages",
+      "employees": 38900
+    },
+    {
+      "sic2": "12",
+      "sector": "Manufacture of tobacco products",
+      "employees": 630
+    },
+    {
+      "sic2": "13",
+      "sector": "Manufacture of textiles",
+      "employees": 49500
+    },
+    {
+      "sic2": "14",
+      "sector": "Manufacture of wearing apparel",
+      "employees": 31500
+    },
+    {
+      "sic2": "15",
+      "sector": "Manufacture of leather and related products",
+      "employees": 7325
+    },
+    {
+      "sic2": "16",
+      "sector": "Manufacture of wood and of products of wood and cork, except furniture;manufacture of articles of straw and plaiting materials",
+      "employees": 67000
+    },
+    {
+      "sic2": "17",
+      "sector": "Manufacture of paper and paper products",
+      "employees": 54650
+    },
+    {
+      "sic2": "18",
+      "sector": "Printing and reproduction of recorded media",
+      "employees": 114900
+    },
+    {
+      "sic2": "19",
+      "sector": "Manufacture of coke and refined petroleum products",
+      "employees": 8495
+    },
+    {
+      "sic2": "20",
+      "sector": "Manufacture of chemicals and chemical products",
+      "employees": 94900
+    },
+    {
+      "sic2": "21",
+      "sector": "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+      "employees": 35150
+    },
+    {
+      "sic2": "22",
+      "sector": "Manufacture of rubber and plastic products",
+      "employees": 164400
+    },
+    {
+      "sic2": "23",
+      "sector": "Manufacture of other non-metallic mineral products",
+      "employees": 78900
+    },
+    {
+      "sic2": "24",
+      "sector": "Manufacture of basic metals",
+      "employees": 65850
+    },
+    {
+      "sic2": "25",
+      "sector": "Manufacture of fabricated metal products, except machinery and equipment",
+      "employees": 321900
+    },
+    {
+      "sic2": "26",
+      "sector": "Manufacture of computer, electronic and optical products",
+      "employees": 107400
+    },
+    {
+      "sic2": "27",
+      "sector": "Manufacture of electrical equipment",
+      "employees": 92050
+    },
+    {
+      "sic2": "28",
+      "sector": "Manufacture of machinery and equipment n.e.c.",
+      "employees": 182100
+    },
+    {
+      "sic2": "29",
+      "sector": "Manufacture of motor vehicles, trailers and semi-trailers",
+      "employees": 158700
+    },
+    {
+      "sic2": "30",
+      "sector": "Manufacture of other transport equipment",
+      "employees": 134000
+    },
+    {
+      "sic2": "31",
+      "sector": "Manufacture of furniture",
+      "employees": 82400
+    },
+    {
+      "sic2": "32",
+      "sector": "Other manufacturing",
+      "employees": 82800
+    },
+    {
+      "sic2": "33",
+      "sector": "Repair and installation of machinery and equipment",
+      "employees": 112300
+    },
+    {
+      "sic2": "35",
+      "sector": "Electricity, gas, steam and air conditioning supply",
+      "employees": 125800
+    },
+    {
+      "sic2": "36",
+      "sector": "Water collection, treatment and supply",
+      "employees": 33650
+    },
+    {
+      "sic2": "37",
+      "sector": "Sewerage",
+      "employees": 23950
+    },
+    {
+      "sic2": "38",
+      "sector": "Waste collection, treatment and disposal activities; materials recovery",
+      "employees": 128500
+    },
+    {
+      "sic2": "39",
+      "sector": "Remediation activities and other waste management services. This division includes the provision of remediation services, i.e. the cleanup of contaminated buildings and sites, soil, surface or ground water.",
+      "employees": 6225
+    },
+    {
+      "sic2": "41",
+      "sector": "Construction of buildings",
+      "employees": 428300
+    },
+    {
+      "sic2": "42",
+      "sector": "Civil engineering",
+      "employees": 194900
+    },
+    {
+      "sic2": "43",
+      "sector": "Specialised construction activities",
+      "employees": 792800
+    },
+    {
+      "sic2": "45",
+      "sector": "Wholesale and retail trade and repair of motor vehicles and motorcycles",
+      "employees": 553700
+    },
+    {
+      "sic2": "46",
+      "sector": "Wholesale trade, except of motor vehicles and motorcycles",
+      "employees": 1195200
+    },
+    {
+      "sic2": "47",
+      "sector": "Retail trade, except of motor vehicles and motorcycles",
+      "employees": 3010200
+    },
+    {
+      "sic2": "49",
+      "sector": "Land transport and transport via pipelines",
+      "employees": 558600
+    },
+    {
+      "sic2": "50",
+      "sector": "Water transport",
+      "employees": 17970
+    },
+    {
+      "sic2": "51",
+      "sector": "Air transport",
+      "employees": 76350
+    },
+    {
+      "sic2": "52",
+      "sector": "Warehousing and support activities for transportation",
+      "employees": 479800
+    },
+    {
+      "sic2": "53",
+      "sector": "Postal and courier activities",
+      "employees": 250700
+    },
+    {
+      "sic2": "55",
+      "sector": "Accommodation",
+      "employees": 454300
+    },
+    {
+      "sic2": "56",
+      "sector": "Food and beverage service activities",
+      "employees": 1702100
+    },
+    {
+      "sic2": "58",
+      "sector": "Publishing activities",
+      "employees": 138750
+    },
+    {
+      "sic2": "59",
+      "sector": "Motion picture, video and television programme production, sound recording and music publishing activities",
+      "employees": 108300
+    },
+    {
+      "sic2": "60",
+      "sector": "Programming and broadcasting activities",
+      "employees": 36875
+    },
+    {
+      "sic2": "61",
+      "sector": "Telecommunications",
+      "employees": 216100
+    },
+    {
+      "sic2": "62",
+      "sector": "Computer programming, consultancy and related activities",
+      "employees": 630700
+    },
+    {
+      "sic2": "63",
+      "sector": "Information service activities",
+      "employees": 74950
+    },
+    {
+      "sic2": "64",
+      "sector": "Financial service activities, except insurance and pension funding",
+      "employees": 512500
+    },
+    {
+      "sic2": "65",
+      "sector": "Insurance, reinsurance and pension funding, except compulsory social security",
+      "employees": 99700
+    },
+    {
+      "sic2": "66",
+      "sector": "Activities auxiliary to financial services and insurance activities",
+      "employees": 429000
+    },
+    {
+      "sic2": "68",
+      "sector": "Real estate activities",
+      "employees": 542500
+    },
+    {
+      "sic2": "69",
+      "sector": "Legal and accounting activities",
+      "employees": 702400
+    },
+    {
+      "sic2": "70",
+      "sector": "Activities of head offices; management consultancy activities",
+      "employees": 743700
+    },
+    {
+      "sic2": "71",
+      "sector": "Architectural and engineering activities; technical testing and analysis",
+      "employees": 539000
+    },
+    {
+      "sic2": "72",
+      "sector": "Scientific research and development",
+      "employees": 136950
+    },
+    {
+      "sic2": "73",
+      "sector": "Advertising and market research",
+      "employees": 181450
+    },
+    {
+      "sic2": "74",
+      "sector": "Other professional, scientific and technical activities",
+      "employees": 176900
+    },
+    {
+      "sic2": "75",
+      "sector": "Veterinary activities",
+      "employees": 62750
+    },
+    {
+      "sic2": "77",
+      "sector": "Rental and leasing activities",
+      "employees": 172200
+    },
+    {
+      "sic2": "78",
+      "sector": "Employment activities",
+      "employees": 942900
+    },
+    {
+      "sic2": "79",
+      "sector": "Travel agency, tour operator and other reservation service and related activities",
+      "employees": 94800
+    },
+    {
+      "sic2": "80",
+      "sector": "Security and investigation activities",
+      "employees": 196700
+    },
+    {
+      "sic2": "81",
+      "sector": "Services to buildings and landscape activities",
+      "employees": 711500
+    },
+    {
+      "sic2": "82",
+      "sector": "Office administrative, office support and other business support activities",
+      "employees": 490400
+    },
+    {
+      "sic2": "84",
+      "sector": "Public administration and defence; compulsory social security",
+      "employees": 1316200
+    },
+    {
+      "sic2": "85",
+      "sector": "Education",
+      "employees": 2693200
+    },
+    {
+      "sic2": "86",
+      "sector": "Human health activities",
+      "employees": 2276000
+    },
+    {
+      "sic2": "87",
+      "sector": "Residential care activities",
+      "employees": 737500
+    },
+    {
+      "sic2": "88",
+      "sector": "Social work activities without accommodation",
+      "employees": 935900
+    },
+    {
+      "sic2": "90",
+      "sector": "Creative, arts and entertainment activities",
+      "employees": 96100
+    },
+    {
+      "sic2": "91",
+      "sector": "Libraries, archives, museums and other cultural activities",
+      "employees": 98000
+    },
+    {
+      "sic2": "92",
+      "sector": "Gambling and betting activities",
+      "employees": 96500
+    },
+    {
+      "sic2": "93",
+      "sector": "Sports activities and amusement and recreation activities",
+      "employees": 439300
+    },
+    {
+      "sic2": "94",
+      "sector": "Activities of membership organisations",
+      "employees": 246100
+    },
+    {
+      "sic2": "95",
+      "sector": "Repair of computers and personal and household goods",
+      "employees": 53650
+    },
+    {
+      "sic2": "96",
+      "sector": "Other personal service activities",
+      "employees": 310000
+    },
+    {
+      "sic2": "97",
+      "sector": "Activities of households as employers of domestic personnel",
+      "employees": 0
+    },
+    {
+      "sic2": "98",
+      "sector": "Undifferentiated goods- and services-producing activities of private households for own use",
+      "employees": 0
+    },
+    {
+      "sic2": "99",
+      "sector": "Activities of extraterritorial organisations and bodies",
+      "employees": 0
+    },
+    {
+      "sic2": "01",
+      "sector": "Crop and animal production, hunting and related service activities",
+      "employees": 500450
+    },
+    {
+      "sic2": "02",
+      "sector": "Forestry and logging",
+      "employees": 17200
+    },
+    {
+      "sic2": "03",
+      "sector": "Fishing and aquaculture",
+      "employees": 8950
+    },
+    {
+      "sic2": "05",
+      "sector": "Mining of coal and lignite",
+      "employees": 2000
+    },
+    {
+      "sic2": "06",
+      "sector": "Extraction of crude petroleum and natural gas",
+      "employees": 15780
+    },
+    {
+      "sic2": "07",
+      "sector": "Mining of metal ores",
+      "employees": 0
+    },
+    {
+      "sic2": "08",
+      "sector": "Other mining and quarrying",
+      "employees": 20300
+    },
+    {
+      "sic2": "09",
+      "sector": "Mining support service activities",
+      "employees": 23350
+    }
+  ]
+}
